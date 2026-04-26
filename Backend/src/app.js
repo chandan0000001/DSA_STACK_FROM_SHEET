@@ -9,6 +9,7 @@ import roomRoutes from '../src/routes/room.route.js'
 import {sendEmail} from '../src/utils/sendEmail.utils.js'
 
 const app = express();
+app.set('trust proxy', 1);
 
 const corsOptions = {
   origin: 'https://dsa-stack-from-sheet.vercel.app',
