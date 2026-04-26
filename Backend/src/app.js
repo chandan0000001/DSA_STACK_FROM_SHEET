@@ -9,13 +9,21 @@ import roomRoutes from '../src/routes/room.route.js'
 import {sendEmail} from '../src/utils/sendEmail.utils.js'
 
 const app = express();
-const clientUrl = process.env.CLIENT_URL
-  ? process.env.CLIENT_URL.replace(/\/+$/, '')
-  : 'http://localhost:5173'
+
+// ✅ FIXED: Allow multiple origins for Google OAuth
+const allowedOrigins = [
+  process.env.CLIENT_URL?.replace(/\/+$/, '') || 'http://localhost:5173',
+  'http://localhost:5173',
+  'http://localhost:3000',
+  'https://dsa-stack-from-sheet.vercel.app'
+].filter(Boolean);
 
 app.use(cors({
-    origin: clientUrl,
-    credentials: true
+    origin: allowedOrigins,
+    credentials: true,
+    methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+    allowedHeaders: ['Content-Type', 'Authorization'],
+    optionsSuccessStatus: 200
 }));
 app.use(express.json());
 app.use(cookieParser());
