@@ -1,5 +1,6 @@
 import { lazy } from 'react'
 import { Route, Routes } from 'react-router-dom'
+import ProtectedRoute from './ProtectedRoute'
 
 // Lazy Loading the pages
 const ProblemSheet = lazy(() => import('../pages/ProblemSheet'))
@@ -24,7 +25,14 @@ const AppRoute = ({ setStreak }) => {
   return (
     <Routes>
       <Route path='/' element={<Home />} />
-      <Route path='/problems' element={<ProblemSheet setStreak={setStreak} />} />
+      <Route
+        path='/problems'
+        element={
+          <ProtectedRoute>
+            <ProblemSheet setStreak={setStreak} />
+          </ProtectedRoute>
+        }
+      />
       <Route path='/daily-problem' element={<TodaysProblems setStreak={setStreak} />} />
       <Route path='/login' element={<Login />} />
       <Route path='/register' element={<Register />} />

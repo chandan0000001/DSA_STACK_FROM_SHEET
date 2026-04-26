@@ -1,15 +1,17 @@
 import { useState } from 'react'
-import { useNavigate } from 'react-router-dom'
+import { useLocation, useNavigate } from 'react-router-dom'
 import axiosInstance from '../config/Axios.config.js'
 import { useAuth } from '../context/auth.context'
 import GoogleSignInButton from '../components/GoogleSignInButton'
 
 const Login = () => {
   const navigate = useNavigate()
+  const location = useLocation()
   const { login } = useAuth()
   const [form, setForm] = useState({ email: '', password: '' })
   const [error, setError] = useState('')
   const [loading, setLoading] = useState(false)
+  const warningMessage = location.state?.message
 
   const handleChange = (e) => {
     setError('')
@@ -58,6 +60,13 @@ const Login = () => {
             don't worry, we didn't solve without you.
           </p>
         </div>
+
+        {/* Warning banner */}
+        {warningMessage && (
+          <div className="px-4 py-3 rounded-xl bg-yellow-500/10 border border-yellow-500/30 text-yellow-300 text-sm text-center">
+            {warningMessage}
+          </div>
+        )}
 
         {/* Error banner */}
         {error && (

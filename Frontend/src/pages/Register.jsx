@@ -1,14 +1,16 @@
 import { useState } from 'react'
-import { useNavigate } from 'react-router-dom'
+import { useLocation, useNavigate } from 'react-router-dom'
 import axiosInstance from '../config/Axios.config.js'
 import GoogleSignInButton from '../components/GoogleSignInButton'
 
 const Register = () => {
   const navigate = useNavigate()
+  const location = useLocation()
   const [form, setForm] = useState({ name: '', email: '', password: '' })
   const [error, setError] = useState('')
   const [loading, setLoading] = useState(false)
   const [done, setDone] = useState(false)
+  const warningMessage = location.state?.message
 
   const handleChange = (e) => {
     setError('')
@@ -96,6 +98,13 @@ const Register = () => {
             no weird nicknames… unless you want one.
           </p>
         </div>
+
+        {/* Warning banner */}
+        {warningMessage && (
+          <div className="px-4 py-3 rounded-xl bg-yellow-500/10 border border-yellow-500/30 text-yellow-300 text-sm text-center">
+            {warningMessage}
+          </div>
+        )}
 
         {/* Error banner */}
         {error && (
