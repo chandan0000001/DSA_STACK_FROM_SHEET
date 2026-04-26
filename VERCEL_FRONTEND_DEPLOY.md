@@ -65,13 +65,13 @@ Click **Environment Variables** and add 2 variables:
 
 ### Variable 1:
 - Key: `VITE_API_URL`
-- Value: `https://dsa-stack-backend.onrender.com` 
+- Value: `https://your-backend-on-render.onrender.com` 
   
   *(Get this URL from your Render deployment)*
 
 ### Variable 2:
 - Key: `VITE_GOOGLE_CLIENT_ID`
-- Value: `337032643363-00c704068vsqmpcafk7ldo8e76o6o4gr.apps.googleusercontent.com`
+- Value: `your_google_client_id_here`
 
 ---
 
