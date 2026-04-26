@@ -1,0 +1,6527 @@
+[
+  {
+    "name": "Search an Element in an array",
+    "link": "https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Easy",
+    "order": 4
+  },
+  {
+    "name": "Check if two arrays are equal or not",
+    "link": "https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Easy",
+    "order": 5
+  },
+  {
+    "name": "Missing element of AP",
+    "link": "https://practice.geeksforgeeks.org/problems/missing-element-of-ap2228/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Easy",
+    "order": 6
+  },
+  {
+    "name": "Cyclically rotate an array by one",
+    "link": "https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Easy",
+    "order": 7
+  },
+  {
+    "name": "Find minimum and maximum element in an array",
+    "link": "https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Easy",
+    "order": 8
+  },
+  {
+    "name": "Binary Array Sorting",
+    "link": "https://practice.geeksforgeeks.org/problems/binary-array-sorting-1587115620/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Easy",
+    "order": 9
+  },
+  {
+    "name": "Move all negative elements to end",
+    "link": "https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Easy",
+    "order": 10
+  },
+  {
+    "name": "Missing number",
+    "link": "https://practice.geeksforgeeks.org/problems/missing-number4257/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Easy",
+    "order": 11
+  },
+  {
+    "name": "Search Element in Matrix",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix/",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Easy",
+    "order": 12
+  },
+  {
+    "name": "Find the fine",
+    "link": "https://practice.geeksforgeeks.org/problems/find-the-fine4353/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Easy",
+    "order": 13
+  },
+  {
+    "name": "Greater on right side",
+    "link": "https://practice.geeksforgeeks.org/problems/greater-on-right-side4305/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Easy",
+    "order": 14
+  },
+  {
+    "name": "Remove duplicate elements from sorted Array",
+    "link": "https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Easy",
+    "order": 15
+  },
+  {
+    "name": "Subarray with given sum",
+    "link": "https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Easy",
+    "order": 16
+  },
+  {
+    "name": "Sort an array of 0s, 1s and 2s",
+    "link": "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Easy",
+    "order": 17
+  },
+  {
+    "name": "Equilibrium Point",
+    "link": "https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Easy",
+    "order": 18
+  },
+  {
+    "name": "Peak element",
+    "link": "https://practice.geeksforgeeks.org/problems/peak-element/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Easy",
+    "order": 19
+  },
+  {
+    "name": "Find Transition Point",
+    "link": "https://practice.geeksforgeeks.org/problems/find-transition-point-1587115620/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Easy",
+    "order": 20
+  },
+  {
+    "name": "Alternate positive and negative numbers",
+    "link": "https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Easy",
+    "order": 21
+  },
+  {
+    "name": "Union of Two Sorted Arrays",
+    "link": "https://practice.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Easy",
+    "order": 22
+  },
+  {
+    "name": "Three way partitioning",
+    "link": "https://practice.geeksforgeeks.org/problems/three-way-partitioning/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Easy",
+    "order": 23
+  },
+  {
+    "name": "Frogs and Jumps",
+    "link": "https://practice.geeksforgeeks.org/problems/5551749efa02ae36b6fdb3034a7810e84bd4c1a4/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Easy",
+    "order": 24
+  },
+  {
+    "name": "Min Subsets with Consecutive Numbers",
+    "link": "https://practice.geeksforgeeks.org/problems/min-subsets-with-consecutive-numbers0601/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Easy",
+    "order": 25
+  },
+  {
+    "name": "Find Missing And Repeating",
+    "link": "https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Medium",
+    "order": 26
+  },
+  {
+    "name": "Rearrange Array Alternately",
+    "link": "https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Medium",
+    "order": 27
+  },
+  {
+    "name": "Pythagorean Triplet",
+    "link": "https://practice.geeksforgeeks.org/problems/pythagorean-triplet3018/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Medium",
+    "order": 28
+  },
+  {
+    "name": "Rearrange an array with O(1) extra space",
+    "link": "https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Medium",
+    "order": 29
+  },
+  {
+    "name": "Count triplets with sum smaller than X",
+    "link": "https://practice.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Medium",
+    "order": 30
+  },
+  {
+    "name": "Boolean Matrix",
+    "link": "https://practice.geeksforgeeks.org/problems/boolean-matrix-problem-1587115620/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Medium",
+    "order": 31
+  },
+  {
+    "name": "Row with max 1s",
+    "link": "https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Medium",
+    "order": 32
+  },
+  {
+    "name": "Container With Most Water",
+    "link": "https://practice.geeksforgeeks.org/problems/container-with-most-water0535/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Medium",
+    "order": 33
+  },
+  {
+    "name": "Maximum Triplet product",
+    "link": "https://practice.geeksforgeeks.org/problems/d54c71dc974b7db3a200eb63f34e3d1cba955d86/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Medium",
+    "order": 34
+  },
+  {
+    "name": "Coins of Geekland",
+    "link": "https://practice.geeksforgeeks.org/problems/257a9e27fb3e58255622c8dcb06e0919cc1c6c11/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Medium",
+    "order": 35
+  },
+  {
+    "name": "Next Permutation",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Medium",
+    "order": 36
+  },
+  {
+    "name": "Rotate Image",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Medium",
+    "order": 37
+  },
+  {
+    "name": "Count Primes",
+    "link": "https://leetcode.com/problems/count-primes",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Medium",
+    "order": 38
+  },
+  {
+    "name": "Watering Plants",
+    "link": "https://leetcode.com/problems/watering-plants",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Medium",
+    "order": 39
+  },
+  {
+    "name": "Arithmetic Subarrays",
+    "link": "https://leetcode.com/problems/arithmetic-subarrays",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Medium",
+    "order": 40
+  },
+  {
+    "name": "Majority Element",
+    "link": "https://www.geeksforgeeks.org/majority-element/",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Medium",
+    "order": 41
+  },
+  {
+    "name": "Max Circular Subarray Sum",
+    "link": "https://practice.geeksforgeeks.org/problems/max-circular-subarray-sum-1587115620/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Hard",
+    "order": 42
+  },
+  {
+    "name": "Count the subarrays having product less than k",
+    "link": "https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Hard",
+    "order": 43
+  },
+  {
+    "name": "Maximum subset XOR",
+    "link": "https://practice.geeksforgeeks.org/problems/maximum-subset-xor/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Hard",
+    "order": 44
+  },
+  {
+    "name": "Next Smallest Palindrome",
+    "link": "https://practice.geeksforgeeks.org/problems/next-smallest-palindrome4740/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Hard",
+    "order": 45
+  },
+  {
+    "name": "Count the number of subarrays",
+    "link": "https://practice.geeksforgeeks.org/problems/count-the-number-of-subarrays/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Hard",
+    "order": 46
+  },
+  {
+    "name": "Largest rectangle of 1s with swapping of columns allowed",
+    "link": "https://practice.geeksforgeeks.org/problems/find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/1",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Hard",
+    "order": 47
+  },
+  {
+    "name": "N/3 Repeat Number",
+    "link": "https://www.interviewbit.com/problems/n3-repeat-number/",
+    "tags": [
+      "Array"
+    ],
+    "difficulty": "Hard",
+    "order": 48
+  },
+  {
+    "name": "Reverse a String",
+    "link": "https://practice.geeksforgeeks.org/problems/reverse-a-string/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Easy",
+    "order": 50
+  },
+  {
+    "name": "Check if strings are rotations of each other or not",
+    "link": "https://practice.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Easy",
+    "order": 51
+  },
+  {
+    "name": "Maximum Occuring Character",
+    "link": "https://practice.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Easy",
+    "order": 52
+  },
+  {
+    "name": "Binary String",
+    "link": "https://practice.geeksforgeeks.org/problems/binary-string-1587115620/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Easy",
+    "order": 53
+  },
+  {
+    "name": "Anagram of String",
+    "link": "https://practice.geeksforgeeks.org/problems/anagram-of-string/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Easy",
+    "order": 54
+  },
+  {
+    "name": "Merge two strings",
+    "link": "https://practice.geeksforgeeks.org/problems/merge-two-strings2736/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Easy",
+    "order": 55
+  },
+  {
+    "name": "Reverse words in a given string",
+    "link": "https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Easy",
+    "order": 56
+  },
+  {
+    "name": "Palindrome String",
+    "link": "https://practice.geeksforgeeks.org/problems/palindrome-string0817/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Easy",
+    "order": 57
+  },
+  {
+    "name": "Longest Common Prefix in an Array",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Easy",
+    "order": 58
+  },
+  {
+    "name": "Roman Number to Integer",
+    "link": "https://practice.geeksforgeeks.org/problems/roman-number-to-integer3201/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Easy",
+    "order": 59
+  },
+  {
+    "name": "Length of Last Word",
+    "link": "https://leetcode.com/problems/length-of-last-word",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Easy",
+    "order": 60
+  },
+  {
+    "name": "Longest Distinct characters in string",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-distinct-characters-in-string5848/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Easy",
+    "order": 61
+  },
+  {
+    "name": "Remove all duplicates from a given string",
+    "link": "https://practice.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Easy",
+    "order": 62
+  },
+  {
+    "name": "Min Number of Flips",
+    "link": "https://practice.geeksforgeeks.org/problems/min-number-of-flips3210/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Easy",
+    "order": 63
+  },
+  {
+    "name": "Meta Strings",
+    "link": "https://practice.geeksforgeeks.org/problems/meta-strings5713/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Easy",
+    "order": 64
+  },
+  {
+    "name": "Smallest window containing 0, 1 and 2",
+    "link": "https://practice.geeksforgeeks.org/problems/d6e88f06b273a60ae83992314ac514f71841a27d/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Easy",
+    "order": 65
+  },
+  {
+    "name": "Generate Grey Code Sequences",
+    "link": "https://practice.geeksforgeeks.org/problems/generate-grey-code-sequences/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Easy",
+    "order": 66
+  },
+  {
+    "name": "Sum of two large numbers",
+    "link": "https://practice.geeksforgeeks.org/problems/sum-of-numbers-or-number1219/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Medium",
+    "order": 67
+  },
+  {
+    "name": "Length of the longest substring",
+    "link": "https://practice.geeksforgeeks.org/problems/length-of-the-longest-substring3036/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Medium",
+    "order": 68
+  },
+  {
+    "name": "Longest Prefix Suffix",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Medium",
+    "order": 69
+  },
+  {
+    "name": "Smallest distinct window",
+    "link": "https://practice.geeksforgeeks.org/problems/smallest-distant-window3132/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Medium",
+    "order": 70
+  },
+  {
+    "name": "Case-specific Sorting of Strings",
+    "link": "https://practice.geeksforgeeks.org/problems/case-specific-sorting-of-strings4845/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Medium",
+    "order": 71
+  },
+  {
+    "name": "Excel Sheet | Part - 1",
+    "link": "https://practice.geeksforgeeks.org/problems/excel-sheet5448/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Medium",
+    "order": 72
+  },
+  {
+    "name": "Transform String",
+    "link": "https://practice.geeksforgeeks.org/problems/transform-string5648/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Medium",
+    "order": 73
+  },
+  {
+    "name": "Remove and Reverse",
+    "link": "https://practice.geeksforgeeks.org/problems/1e2f365be6114b671b915e145ec7dbcfdc432910/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Medium",
+    "order": 74
+  },
+  {
+    "name": "String formation from substring",
+    "link": "https://practice.geeksforgeeks.org/problems/string-formation-from-substring2734/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Medium",
+    "order": 75
+  },
+  {
+    "name": "Minimum Days",
+    "link": "https://practice.geeksforgeeks.org/problems/f4d22b1f9d62e8bee0ff84e9fa51dc66eb5005ec/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Medium",
+    "order": 76
+  },
+  {
+    "name": "Remove Consecutive Characters",
+    "link": "https://www.interviewbit.com/problems/remove-consecutive-characters/",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Medium",
+    "order": 77
+  },
+  {
+    "name": "Bulls and Cows",
+    "link": "https://www.interviewbit.com/problems/bulls-and-cows/",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Medium",
+    "order": 78
+  },
+  {
+    "name": "Atoi",
+    "link": "https://www.interviewbit.com/problems/atoi/",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Medium",
+    "order": 79
+  },
+  {
+    "name": "Valid Ip Addresses",
+    "link": "https://www.interviewbit.com/problems/valid-ip-addresses/",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Hard",
+    "order": 80
+  },
+  {
+    "name": "Integer To Roman",
+    "link": "https://www.interviewbit.com/problems/integer-to-roman/",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Hard",
+    "order": 81
+  },
+  {
+    "name": "Minimum characters to be added at front to make string palindrome",
+    "link": "https://practice.geeksforgeeks.org/problems/minimum-characters-to-be-added-at-front-to-make-string-palindrome/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Hard",
+    "order": 82
+  },
+  {
+    "name": "Wildcard string matching",
+    "link": "https://practice.geeksforgeeks.org/problems/wildcard-string-matching1126/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Hard",
+    "order": 83
+  },
+  {
+    "name": "Longest Palindromic Substring in Linear Time",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-palindromic-substring-in-linear-time/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Hard",
+    "order": 84
+  },
+  {
+    "name": "Numbers with one absolute difference",
+    "link": "https://practice.geeksforgeeks.org/problems/numbers-with-one-absolute-difference2416/1",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Hard",
+    "order": 85
+  },
+  {
+    "name": "Stringoholics",
+    "link": "https://www.interviewbit.com/problems/stringoholics/",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Hard",
+    "order": 86
+  },
+  {
+    "name": "Power of 2",
+    "link": "https://www.interviewbit.com/problems/power-of-2/",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Hard",
+    "order": 87
+  },
+  {
+    "name": "Justified Text",
+    "link": "https://www.interviewbit.com/problems/justified-text/",
+    "tags": [
+      "String"
+    ],
+    "difficulty": "Hard",
+    "order": 88
+  },
+  {
+    "name": "Searching an element in a sorted array",
+    "link": "https://practice.geeksforgeeks.org/problems/who-will-win-1587115621/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 90
+  },
+  {
+    "name": "Last index of One",
+    "link": "https://practice.geeksforgeeks.org/problems/last-index-of-15847/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 91
+  },
+  {
+    "name": "Count the Zeros",
+    "link": "https://practice.geeksforgeeks.org/problems/count-the-zeros2550/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 92
+  },
+  {
+    "name": "Elements in the Range",
+    "link": "https://practice.geeksforgeeks.org/problems/elements-in-the-range2834/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 93
+  },
+  {
+    "name": "Bubble Sort",
+    "link": "https://practice.geeksforgeeks.org/problems/bubble-sort/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 94
+  },
+  {
+    "name": "Insertion Sort",
+    "link": "https://practice.geeksforgeeks.org/problems/insertion-sort/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 95
+  },
+  {
+    "name": "First and last occurrences of X",
+    "link": "https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x2041/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 96
+  },
+  {
+    "name": "Count zeros in a sorted matrix",
+    "link": "https://practice.geeksforgeeks.org/problems/count-zeros-in-a-sorted-matrix/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 97
+  },
+  {
+    "name": "Array Subset of another array",
+    "link": "https://practice.geeksforgeeks.org/problems/array-subset-of-another-array2317/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 98
+  },
+  {
+    "name": "Selection Sort",
+    "link": "https://practice.geeksforgeeks.org/problems/selection-sort/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 99
+  },
+  {
+    "name": "Floor in a Sorted Array",
+    "link": "https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 100
+  },
+  {
+    "name": "Radix Sort",
+    "link": "https://practice.geeksforgeeks.org/problems/radix-sort/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 101
+  },
+  {
+    "name": "Search in a matrix",
+    "link": "https://practice.geeksforgeeks.org/problems/search-in-a-matrix17201720/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 102
+  },
+  {
+    "name": "Bitonic Point",
+    "link": "https://practice.geeksforgeeks.org/problems/maximum-value-in-a-bitonic-array3001/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 103
+  },
+  {
+    "name": "Two Repeated Elements",
+    "link": "https://practice.geeksforgeeks.org/problems/two-repeated-elements-1587115621/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 104
+  },
+  {
+    "name": "Count More than n/k Occurences",
+    "link": "https://practice.geeksforgeeks.org/problems/count-element-occurences/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 105
+  },
+  {
+    "name": "Number and the Digit Sum",
+    "link": "https://practice.geeksforgeeks.org/problems/number-and-the-digit-sum4021/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 106
+  },
+  {
+    "name": "Find triplets with zero sum",
+    "link": "https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 107
+  },
+  {
+    "name": "Sort The Array",
+    "link": "https://practice.geeksforgeeks.org/problems/sort-the-array0055/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 108
+  },
+  {
+    "name": "Sort in specific order",
+    "link": "https://practice.geeksforgeeks.org/problems/sort-in-specific-order2422/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 109
+  },
+  {
+    "name": "Sort a String",
+    "link": "https://practice.geeksforgeeks.org/problems/sort-a-string2943/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 110
+  },
+  {
+    "name": "Triplet Family",
+    "link": "https://practice.geeksforgeeks.org/problems/triplet-family/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 111
+  },
+  {
+    "name": "Merge and Sort",
+    "link": "https://practice.geeksforgeeks.org/problems/merge-and-sort5821/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 112
+  },
+  {
+    "name": "Merging two unsorted arrays in sorted order",
+    "link": "https://practice.geeksforgeeks.org/problems/merging-two-unsorted-arrays-in-sorted-order1020/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 113
+  },
+  {
+    "name": "Rope Cutting",
+    "link": "https://practice.geeksforgeeks.org/problems/rope-cutting3334/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 114
+  },
+  {
+    "name": "Make array elements unique",
+    "link": "https://practice.geeksforgeeks.org/problems/6e63df6d2ebdf6408a9b364128bb1123b5b13450/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Easy",
+    "order": 115
+  },
+  {
+    "name": "Kth smallest element",
+    "link": "https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 116
+  },
+  {
+    "name": "Smallest Positive missing number",
+    "link": "https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 117
+  },
+  {
+    "name": "Sort an array according to the other",
+    "link": "https://practice.geeksforgeeks.org/problems/relative-sorting4323/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 118
+  },
+  {
+    "name": "Square root of a number",
+    "link": "https://practice.geeksforgeeks.org/problems/square-root/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 119
+  },
+  {
+    "name": "Search in a row-column sorted Matrix",
+    "link": "https://practice.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 120
+  },
+  {
+    "name": "Smallest factorial number",
+    "link": "https://practice.geeksforgeeks.org/problems/smallest-factorial-number5929/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 121
+  },
+  {
+    "name": "Merge Sort",
+    "link": "https://practice.geeksforgeeks.org/problems/merge-sort/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 122
+  },
+  {
+    "name": "Quick Sort",
+    "link": "https://practice.geeksforgeeks.org/problems/quick-sort/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 123
+  },
+  {
+    "name": "Count Inversions",
+    "link": "https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 124
+  },
+  {
+    "name": "Find All Four Sum Numbers",
+    "link": "https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 125
+  },
+  {
+    "name": "Minimum Swaps to Sort",
+    "link": "https://practice.geeksforgeeks.org/problems/minimum-swaps/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 126
+  },
+  {
+    "name": "Number of pairs",
+    "link": "https://practice.geeksforgeeks.org/problems/number-of-pairs3422/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 127
+  },
+  {
+    "name": "Sort an Array",
+    "link": "https://leetcode.com/problems/sort-an-array",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 128
+  },
+  {
+    "name": "Sorting Elements of an Array by Frequency",
+    "link": "https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency-1587115621/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 129
+  },
+  {
+    "name": "Overlapping Intervals",
+    "link": "https://practice.geeksforgeeks.org/problems/8a644e94faaa94968d8665ba9e0a80d1ae3e0a2d/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 130
+  },
+  {
+    "name": "Find minimum number of Laptops required",
+    "link": "https://practice.geeksforgeeks.org/problems/af49b143a4ead583e943ca6176fbd7ea55b121ae/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 131
+  },
+  {
+    "name": "LCP",
+    "link": "https://practice.geeksforgeeks.org/problems/cf0cd86c66d07222499f84ec22dbcf6cae30e848/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 132
+  },
+  {
+    "name": "Reach a Number",
+    "link": "https://leetcode.com/problems/reach-a-number",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 133
+  },
+  {
+    "name": "Heaters",
+    "link": "https://leetcode.com/problems/heaters",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 134
+  },
+  {
+    "name": "Friends Of Appropriate Ages",
+    "link": "https://leetcode.com/problems/friends-of-appropriate-ages",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 135
+  },
+  {
+    "name": "Koko Eating Bananas",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 136
+  },
+  {
+    "name": "3Sum",
+    "link": "https://leetcode.com/problems/3sum",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 137
+  },
+  {
+    "name": "3Sum Closest",
+    "link": "https://leetcode.com/problems/3sum-closest",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 138
+  },
+  {
+    "name": "Nth Digit",
+    "link": "https://leetcode.com/problems/nth-digit",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 139
+  },
+  {
+    "name": "Sort a 2D vector diagonally",
+    "link": "https://practice.geeksforgeeks.org/problems/diagonal-morning-assembly0028/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 140
+  },
+  {
+    "name": "Maximum Intersecting Lines",
+    "link": "https://practice.geeksforgeeks.org/problems/63c232252d445a377e01cd91adfd7d1060580038/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Medium",
+    "order": 141
+  },
+  {
+    "name": "Merge Without Extra Space",
+    "link": "https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Hard",
+    "order": 142
+  },
+  {
+    "name": "Median of the Subarrays",
+    "link": "https://practice.geeksforgeeks.org/problems/6f08220ca3b871be594f50f7f56a9ef2799cb485/1",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Hard",
+    "order": 143
+  },
+  {
+    "name": "Median of Array",
+    "link": "https://www.interviewbit.com/problems/median-of-array/",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Hard",
+    "order": 144
+  },
+  {
+    "name": "Implement Power Function",
+    "link": "https://www.interviewbit.com/problems/implement-power-function/",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Hard",
+    "order": 145
+  },
+  {
+    "name": "WoodCutting Made Easy!",
+    "link": "https://www.interviewbit.com/problems/woodcutting-made-easy/",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Hard",
+    "order": 146
+  },
+  {
+    "name": "Matrix Median",
+    "link": "https://www.interviewbit.com/problems/matrix-median/",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Hard",
+    "order": 147
+  },
+  {
+    "name": "Allocate Books",
+    "link": "https://www.interviewbit.com/problems/allocate-books/",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Hard",
+    "order": 148
+  },
+  {
+    "name": "Painter's Partition Problem",
+    "link": "https://www.interviewbit.com/problems/painters-partition-problem/",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Hard",
+    "order": 149
+  },
+  {
+    "name": "Red Zone",
+    "link": "https://www.interviewbit.com/problems/red-zone/",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Hard",
+    "order": 150
+  },
+  {
+    "name": "Max Sum of Rectangle No Larger Than K",
+    "link": "https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Hard",
+    "order": 151
+  },
+  {
+    "name": "Smallest Good Base",
+    "link": "https://leetcode.com/problems/smallest-good-base",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Hard",
+    "order": 152
+  },
+  {
+    "name": "House Robber IV",
+    "link": "https://leetcode.com/problems/house-robber-iv",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Hard",
+    "order": 153
+  },
+  {
+    "name": "Maximum Gap",
+    "link": "https://leetcode.com/problems/maximum-gap",
+    "tags": [
+      "Searching and Sorting"
+    ],
+    "difficulty": "Hard",
+    "order": 154
+  },
+  {
+    "name": "Print Linked List elements",
+    "link": "https://practice.geeksforgeeks.org/problems/print-linked-list-elements/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 156
+  },
+  {
+    "name": "Linked List Insertion",
+    "link": "https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 157
+  },
+  {
+    "name": "Count nodes of linked list",
+    "link": "https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 158
+  },
+  {
+    "name": "Check If Circular Linked List",
+    "link": "https://practice.geeksforgeeks.org/problems/circular-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 159
+  },
+  {
+    "name": "Identical Linked Lists",
+    "link": "https://practice.geeksforgeeks.org/problems/identical-linked-lists/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 160
+  },
+  {
+    "name": "Insert in a Sorted List",
+    "link": "https://practice.geeksforgeeks.org/problems/insert-in-a-sorted-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 161
+  },
+  {
+    "name": "Insert in Middle of Linked List",
+    "link": "https://practice.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 162
+  },
+  {
+    "name": "Delete node in Doubly Linked List",
+    "link": "https://practice.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 163
+  },
+  {
+    "name": "Reverse a Doubly Linked List",
+    "link": "https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 164
+  },
+  {
+    "name": "Delete Alternate Nodes",
+    "link": "https://practice.geeksforgeeks.org/problems/delete-alternate-nodes/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 165
+  },
+  {
+    "name": "Find the Sum of Last N nodes of the Linked List",
+    "link": "https://practice.geeksforgeeks.org/problems/find-the-sum-of-last-n-nodes-of-the-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 166
+  },
+  {
+    "name": "Find n/k th node in Linked list",
+    "link": "https://practice.geeksforgeeks.org/problems/find-nk-th-node-in-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 167
+  },
+  {
+    "name": "Detect Loop in linked list",
+    "link": "https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 168
+  },
+  {
+    "name": "Move Last Element to Front of a Linked List",
+    "link": "https://practice.geeksforgeeks.org/problems/move-last-element-to-front-of-a-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 169
+  },
+  {
+    "name": "Nth node from end of linked list",
+    "link": "https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 170
+  },
+  {
+    "name": "Finding middle element in a linked list",
+    "link": "https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 171
+  },
+  {
+    "name": "Reverse a linked list",
+    "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 172
+  },
+  {
+    "name": "Remove duplicate element from sorted Linked List",
+    "link": "https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 173
+  },
+  {
+    "name": "Delete without head pointer",
+    "link": "https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 174
+  },
+  {
+    "name": "Remove duplicates from an unsorted linked list",
+    "link": "https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 175
+  },
+  {
+    "name": "Delete a Node in Single Linked List",
+    "link": "https://practice.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 176
+  },
+  {
+    "name": "Given a linked list of 0s, 1s and 2s, sort it.",
+    "link": "https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 177
+  },
+  {
+    "name": "Find length of Loop",
+    "link": "https://practice.geeksforgeeks.org/problems/find-length-of-loop/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 178
+  },
+  {
+    "name": "Intersection of two sorted Linked lists",
+    "link": "https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 179
+  },
+  {
+    "name": "Pairwise swap elements of a linked list",
+    "link": "https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 180
+  },
+  {
+    "name": "Sorted insert for circular linked list",
+    "link": "https://practice.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 181
+  },
+  {
+    "name": "Count Pairs whose sum is equal to X",
+    "link": "https://practice.geeksforgeeks.org/problems/count-pairs-whose-sum-is-equal-to-x/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 182
+  },
+  {
+    "name": "Intersection of Two Linked Lists",
+    "link": "https://practice.geeksforgeeks.org/problems/intersection-of-two-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 183
+  },
+  {
+    "name": "Split a Circular Linked List into two halves",
+    "link": "https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 184
+  },
+  {
+    "name": "Union of Two Linked Lists",
+    "link": "https://practice.geeksforgeeks.org/problems/union-of-two-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 185
+  },
+  {
+    "name": "Linked List Matrix",
+    "link": "https://practice.geeksforgeeks.org/problems/linked-list-matrix/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 186
+  },
+  {
+    "name": "XOR Linked List",
+    "link": "https://practice.geeksforgeeks.org/problems/xor-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Easy",
+    "order": 187
+  },
+  {
+    "name": "Remove loop in Linked List",
+    "link": "https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Medium",
+    "order": 188
+  },
+  {
+    "name": "Intersection Point in Y Shaped Linked Lists",
+    "link": "https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Medium",
+    "order": 189
+  },
+  {
+    "name": "Check if Linked List is Palindrome",
+    "link": "https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Medium",
+    "order": 190
+  },
+  {
+    "name": "Rotate a Linked List",
+    "link": "https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Medium",
+    "order": 191
+  },
+  {
+    "name": "Merge two sorted linked lists",
+    "link": "https://practice.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Medium",
+    "order": 192
+  },
+  {
+    "name": "Delete nodes having greater value on right",
+    "link": "https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Medium",
+    "order": 193
+  },
+  {
+    "name": "Merge Sort for Linked List",
+    "link": "https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Medium",
+    "order": 194
+  },
+  {
+    "name": "Rearrange a linked list",
+    "link": "https://practice.geeksforgeeks.org/problems/rearrange-a-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Medium",
+    "order": 195
+  },
+  {
+    "name": "Prime List",
+    "link": "https://practice.geeksforgeeks.org/problems/6cb0782855c0f11445b8d70e220f888e6ea8e22a/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Medium",
+    "order": 196
+  },
+  {
+    "name": "Length of longest palindrome in linked list",
+    "link": "https://practice.geeksforgeeks.org/problems/length-of-longest-palindrome-in-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Medium",
+    "order": 197
+  },
+  {
+    "name": "Reverse alternate nodes in Link List",
+    "link": "https://practice.geeksforgeeks.org/problems/given-a-linked-list-reverse-alternate-nodes-and-append-at-the-end/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Medium",
+    "order": 198
+  },
+  {
+    "name": "Merge Sort on Doubly Linked List",
+    "link": "https://practice.geeksforgeeks.org/problems/merge-sort-on-doubly-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Medium",
+    "order": 199
+  },
+  {
+    "name": "Quick Sort on Linked List",
+    "link": "https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Medium",
+    "order": 200
+  },
+  {
+    "name": "QuickSort on Doubly Linked List",
+    "link": "https://practice.geeksforgeeks.org/problems/quicksort-on-doubly-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Medium",
+    "order": 201
+  },
+  {
+    "name": "Remove all occurences of duplicates in a linked list",
+    "link": "https://practice.geeksforgeeks.org/problems/remove-all-occurences-of-duplicates-in-a-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Medium",
+    "order": 202
+  },
+  {
+    "name": "Insertion Sort for Singly Linked List",
+    "link": "https://practice.geeksforgeeks.org/problems/insertion-sort-for-singly-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Medium",
+    "order": 203
+  },
+  {
+    "name": "Reverse Alternate K Nodes",
+    "link": "https://www.interviewbit.com/problems/reverse-alternate-k-nodes/",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Medium",
+    "order": 204
+  },
+  {
+    "name": "Linked List Cycle II",
+    "link": "https://leetcode.com/problems/linked-list-cycle-ii",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Medium",
+    "order": 205
+  },
+  {
+    "name": "LRU Cache",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Medium",
+    "order": 206
+  },
+  {
+    "name": "Flatten a Multilevel Doubly Linked List",
+    "link": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Medium",
+    "order": 207
+  },
+  {
+    "name": "Clone a linked list with next and random pointer",
+    "link": "https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Hard",
+    "order": 208
+  },
+  {
+    "name": "Reorder List",
+    "link": "https://practice.geeksforgeeks.org/problems/reorder-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Hard",
+    "order": 209
+  },
+  {
+    "name": "Reverse a sublist of a linked list",
+    "link": "https://practice.geeksforgeeks.org/problems/reverse-a-sublist-of-a-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Hard",
+    "order": 210
+  },
+  {
+    "name": "LFU Cache",
+    "link": "https://leetcode.com/problems/lfu-cache",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Hard",
+    "order": 211
+  },
+  {
+    "name": "Reverse Nodes in k-Group",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Hard",
+    "order": 212
+  },
+  {
+    "name": "Design Skiplist",
+    "link": "https://leetcode.com/problems/design-skiplist",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Hard",
+    "order": 213
+  },
+  {
+    "name": "Subtraction in Linked List",
+    "link": "https://practice.geeksforgeeks.org/problems/subtraction-in-linked-list/1",
+    "tags": [
+      "LinkedList"
+    ],
+    "difficulty": "Hard",
+    "order": 214
+  },
+  {
+    "name": "Immediate Smaller Element",
+    "link": "https://practice.geeksforgeeks.org/problems/immediate-smaller-element1142/1",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Easy",
+    "order": 216
+  },
+  {
+    "name": "Implement stack using array",
+    "link": "https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Easy",
+    "order": 217
+  },
+  {
+    "name": "Implement Stack using Linked List",
+    "link": "https://practice.geeksforgeeks.org/problems/implement-stack-using-linked-list/1",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Easy",
+    "order": 218
+  },
+  {
+    "name": "Pairwise Consecutive Elements",
+    "link": "https://practice.geeksforgeeks.org/problems/pairwise-consecutive-elements/1",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Easy",
+    "order": 219
+  },
+  {
+    "name": "Parenthesis Checker",
+    "link": "https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Easy",
+    "order": 220
+  },
+  {
+    "name": "Sort a stack",
+    "link": "https://practice.geeksforgeeks.org/problems/sort-a-stack/1",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Easy",
+    "order": 221
+  },
+  {
+    "name": "Delete middle element of a stack",
+    "link": "https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Easy",
+    "order": 222
+  },
+  {
+    "name": "Maximum Difference",
+    "link": "https://practice.geeksforgeeks.org/problems/maximum-difference-1587115620/1",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Easy",
+    "order": 223
+  },
+  {
+    "name": "Print Bracket Number",
+    "link": "https://practice.geeksforgeeks.org/problems/print-bracket-number4058/1",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Easy",
+    "order": 224
+  },
+  {
+    "name": "Max sum in sub-arrays",
+    "link": "https://practice.geeksforgeeks.org/problems/max-sum-in-sub-arrays0824/1",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Easy",
+    "order": 225
+  },
+  {
+    "name": "String Manipulation",
+    "link": "https://practice.geeksforgeeks.org/problems/string-manipulation3706/1",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Easy",
+    "order": 226
+  },
+  {
+    "name": "Make the array beautiful",
+    "link": "https://practice.geeksforgeeks.org/problems/badefd58bace4f2ca25267ccfe0c9dc844415e90/1",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Easy",
+    "order": 227
+  },
+  {
+    "name": "Next Greater Element I",
+    "link": "https://leetcode.com/problems/next-greater-element-i",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Easy",
+    "order": 228
+  },
+  {
+    "name": "Baseball Game",
+    "link": "https://leetcode.com/problems/baseball-game",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Easy",
+    "order": 229
+  },
+  {
+    "name": "Backspace String Compare",
+    "link": "https://leetcode.com/problems/backspace-string-compare",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Easy",
+    "order": 230
+  },
+  {
+    "name": "Next Greater Element",
+    "link": "https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Medium",
+    "order": 231
+  },
+  {
+    "name": "Get minimum element from stack",
+    "link": "https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Medium",
+    "order": 232
+  },
+  {
+    "name": "The Celebrity Problem",
+    "link": "https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Medium",
+    "order": 233
+  },
+  {
+    "name": "Smallest number on left",
+    "link": "https://practice.geeksforgeeks.org/problems/smallest-number-on-left3403/1",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Medium",
+    "order": 234
+  },
+  {
+    "name": "Asteroid Collision",
+    "link": "https://practice.geeksforgeeks.org/problems/asteroid-collision/1",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Medium",
+    "order": 235
+  },
+  {
+    "name": "Remove K Digits",
+    "link": "https://practice.geeksforgeeks.org/problems/remove-k-digits/1",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Medium",
+    "order": 236
+  },
+  {
+    "name": "Valid Expression",
+    "link": "https://practice.geeksforgeeks.org/problems/valid-expression1025/1",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Medium",
+    "order": 237
+  },
+  {
+    "name": "Find Maximum Equal sum of Three Stacks",
+    "link": "https://practice.geeksforgeeks.org/problems/find-maximum-equal-sum-of-three-stacks/1",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Medium",
+    "order": 238
+  },
+  {
+    "name": "MAXSPPROD",
+    "link": "https://www.interviewbit.com/problems/maxspprod/",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Medium",
+    "order": 239
+  },
+  {
+    "name": "Decode String",
+    "link": "https://leetcode.com/problems/decode-string",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Medium",
+    "order": 240
+  },
+  {
+    "name": "Evaluate Expression",
+    "link": "https://www.interviewbit.com/problems/evaluate-expression/",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Medium",
+    "order": 241
+  },
+  {
+    "name": "Redundant Braces",
+    "link": "https://www.interviewbit.com/problems/redundant-braces/",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Medium",
+    "order": 242
+  },
+  {
+    "name": "Next Greater Element II",
+    "link": "https://leetcode.com/problems/next-greater-element-ii",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Medium",
+    "order": 243
+  },
+  {
+    "name": "Clumsy Factorial",
+    "link": "https://leetcode.com/problems/clumsy-factorial",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Medium",
+    "order": 244
+  },
+  {
+    "name": "Maximum Rectangular Area in a Histogram",
+    "link": "https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Hard",
+    "order": 245
+  },
+  {
+    "name": "Maximum of minimum for every window size",
+    "link": "https://practice.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Hard",
+    "order": 246
+  },
+  {
+    "name": "IPL 2021 - Final",
+    "link": "https://practice.geeksforgeeks.org/problems/3b47f0ad00f953dd514235ddec54e39fdc297dda/1",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Hard",
+    "order": 247
+  },
+  {
+    "name": "IPL 2021 - Match Day 6 - Semi Final",
+    "link": "https://practice.geeksforgeeks.org/problems/cd4b48615a30999443b728a72de6cd5addbd0501/1",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Hard",
+    "order": 248
+  },
+  {
+    "name": "Rain Water Trapped",
+    "link": "https://www.interviewbit.com/problems/rain-water-trapped/",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Hard",
+    "order": 249
+  },
+  {
+    "name": "Simplify Directory Path",
+    "link": "https://www.interviewbit.com/problems/simplify-directory-path/",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Hard",
+    "order": 250
+  },
+  {
+    "name": "Basic Calculator",
+    "link": "https://leetcode.com/problems/basic-calculator",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Hard",
+    "order": 251
+  },
+  {
+    "name": "Create Maximum Number",
+    "link": "https://leetcode.com/problems/create-maximum-number",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Hard",
+    "order": 252
+  },
+  {
+    "name": "Tag Validator",
+    "link": "https://leetcode.com/problems/tag-validator",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Hard",
+    "order": 253
+  },
+  {
+    "name": "Max Chunks To Make Sorted II",
+    "link": "https://leetcode.com/problems/max-chunks-to-make-sorted-ii",
+    "tags": [
+      "Stack"
+    ],
+    "difficulty": "Hard",
+    "order": 254
+  },
+  {
+    "name": "Queue Push & Pop",
+    "link": "https://practice.geeksforgeeks.org/problems/queue-designer/1",
+    "tags": [
+      "Queue"
+    ],
+    "difficulty": "Easy",
+    "order": 256
+  },
+  {
+    "name": "Queue Reversal",
+    "link": "https://practice.geeksforgeeks.org/problems/queue-reversal/1",
+    "tags": [
+      "Queue"
+    ],
+    "difficulty": "Easy",
+    "order": 257
+  },
+  {
+    "name": "Implement Queue using array",
+    "link": "https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1",
+    "tags": [
+      "Queue"
+    ],
+    "difficulty": "Easy",
+    "order": 258
+  },
+  {
+    "name": "Implement Queue using Linked List",
+    "link": "https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1",
+    "tags": [
+      "Queue"
+    ],
+    "difficulty": "Easy",
+    "order": 259
+  },
+  {
+    "name": "Generate Binary Numbers",
+    "link": "https://practice.geeksforgeeks.org/problems/generate-binary-numbers-1587115620/1",
+    "tags": [
+      "Queue"
+    ],
+    "difficulty": "Easy",
+    "order": 260
+  },
+  {
+    "name": "Stack using two queues",
+    "link": "https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1",
+    "tags": [
+      "Queue"
+    ],
+    "difficulty": "Easy",
+    "order": 261
+  },
+  {
+    "name": "Queue using two Stacks",
+    "link": "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1",
+    "tags": [
+      "Queue"
+    ],
+    "difficulty": "Easy",
+    "order": 262
+  },
+  {
+    "name": "Reverse First K elements of Queue",
+    "link": "https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1",
+    "tags": [
+      "Queue"
+    ],
+    "difficulty": "Easy",
+    "order": 263
+  },
+  {
+    "name": "Deque Implementations",
+    "link": "https://practice.geeksforgeeks.org/problems/deque-implementations/1",
+    "tags": [
+      "Queue"
+    ],
+    "difficulty": "Easy",
+    "order": 264
+  },
+  {
+    "name": "Next Right Node",
+    "link": "https://practice.geeksforgeeks.org/problems/next-right-node/1",
+    "tags": [
+      "Queue"
+    ],
+    "difficulty": "Easy",
+    "order": 265
+  },
+  {
+    "name": "First Unique Character in a Str",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "tags": [
+      "Queue"
+    ],
+    "difficulty": "Easy",
+    "order": 266
+  },
+  {
+    "name": "Number of Recent Calls",
+    "link": "https://leetcode.com/problems/number-of-recent-calls",
+    "tags": [
+      "Queue"
+    ],
+    "difficulty": "Easy",
+    "order": 267
+  },
+  {
+    "name": "Time Needed to Buy Tickets",
+    "link": "https://leetcode.com/problems/time-needed-to-buy-tickets",
+    "tags": [
+      "Queue"
+    ],
+    "difficulty": "Easy",
+    "order": 268
+  },
+  {
+    "name": "First non-repeating character in a stream",
+    "link": "https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1",
+    "tags": [
+      "Queue"
+    ],
+    "difficulty": "Medium",
+    "order": 269
+  },
+  {
+    "name": "Circular tour",
+    "link": "https://practice.geeksforgeeks.org/problems/circular-tour-1587115620/1",
+    "tags": [
+      "Queue"
+    ],
+    "difficulty": "Medium",
+    "order": 270
+  },
+  {
+    "name": "Count the Reversals",
+    "link": "https://practice.geeksforgeeks.org/problems/count-the-reversals0401/1",
+    "tags": [
+      "Queue"
+    ],
+    "difficulty": "Medium",
+    "order": 271
+  },
+  {
+    "name": "Stack Permutations",
+    "link": "https://practice.geeksforgeeks.org/problems/stack-permutations/1",
+    "tags": [
+      "Queue"
+    ],
+    "difficulty": "Medium",
+    "order": 272
+  },
+  {
+    "name": "Operations on PriorityQueue",
+    "link": "https://practice.geeksforgeeks.org/problems/operations-on-priorityqueue/1",
+    "tags": [
+      "Queue"
+    ],
+    "difficulty": "Medium",
+    "order": 273
+  },
+  {
+    "name": "Design Circular Deque",
+    "link": "https://leetcode.com/problems/design-circular-deque",
+    "tags": [
+      "Queue"
+    ],
+    "difficulty": "Medium",
+    "order": 274
+  },
+  {
+    "name": "First non-repeating character in a stream of characters",
+    "link": "https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-of-characters/",
+    "tags": [
+      "Queue"
+    ],
+    "difficulty": "Medium",
+    "order": 275
+  },
+  {
+    "name": "Sliding Window Maximum",
+    "link": "https://www.interviewbit.com/problems/sliding-window-maximum/",
+    "tags": [
+      "Queue"
+    ],
+    "difficulty": "Medium",
+    "order": 276
+  },
+  {
+    "name": "Stamping The Sequence",
+    "link": "https://leetcode.com/problems/stamping-the-sequence",
+    "tags": [
+      "Queue"
+    ],
+    "difficulty": "Hard",
+    "order": 277
+  },
+  {
+    "name": "Minimum Number of K Consecutive Bit Flips",
+    "link": "https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips",
+    "tags": [
+      "Queue"
+    ],
+    "difficulty": "Hard",
+    "order": 278
+  },
+  {
+    "name": "Count Subarrays With Fixed Bounds",
+    "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+    "tags": [
+      "Queue"
+    ],
+    "difficulty": "Hard",
+    "order": 279
+  },
+  {
+    "name": "Inorder Traversal",
+    "link": "https://practice.geeksforgeeks.org/problems/inorder-traversal/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 281
+  },
+  {
+    "name": "Preorder Traversal",
+    "link": "https://practice.geeksforgeeks.org/problems/preorder-traversal/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 282
+  },
+  {
+    "name": "Postorder Traversal",
+    "link": "https://practice.geeksforgeeks.org/problems/postorder-traversal/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 283
+  },
+  {
+    "name": "Count Leaves in Binary Tree",
+    "link": "https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 284
+  },
+  {
+    "name": "Size of Binary Tree",
+    "link": "https://practice.geeksforgeeks.org/problems/size-of-binary-tree/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 285
+  },
+  {
+    "name": "Sum of Binary Tree",
+    "link": "https://practice.geeksforgeeks.org/problems/sum-of-binary-tree/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 286
+  },
+  {
+    "name": "Count Non-Leaf Nodes in Tree",
+    "link": "https://practice.geeksforgeeks.org/problems/count-non-leaf-nodes-in-tree/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 287
+  },
+  {
+    "name": "Left View of Binary Tree",
+    "link": "https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 288
+  },
+  {
+    "name": "Right View of Binary Tree",
+    "link": "https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 289
+  },
+  {
+    "name": "Height of Binary Tree",
+    "link": "https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 290
+  },
+  {
+    "name": "Root to leaf paths sum",
+    "link": "https://practice.geeksforgeeks.org/problems/root-to-leaf-paths-sum/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 291
+  },
+  {
+    "name": "Check for Balanced Tree",
+    "link": "https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 292
+  },
+  {
+    "name": "Determine if Two Trees are Identical",
+    "link": "https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 293
+  },
+  {
+    "name": "Level order traversal",
+    "link": "https://practice.geeksforgeeks.org/problems/level-order-traversal/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 294
+  },
+  {
+    "name": "Level order traversal in spiral form",
+    "link": "https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 295
+  },
+  {
+    "name": "Mirror Tree",
+    "link": "https://practice.geeksforgeeks.org/problems/mirror-tree/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 296
+  },
+  {
+    "name": "Print all nodes that don't have sibling",
+    "link": "https://practice.geeksforgeeks.org/problems/print-all-nodes-that-dont-have-sibling/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 297
+  },
+  {
+    "name": "Maximum Depth Of Binary Tree",
+    "link": "https://practice.geeksforgeeks.org/problems/maximum-depth-of-binary-tree/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 298
+  },
+  {
+    "name": "Shortest distance in infinite tree",
+    "link": "https://practice.geeksforgeeks.org/problems/find-the-distance-between-two-nodes4402/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 299
+  },
+  {
+    "name": "Largest value in each level",
+    "link": "https://practice.geeksforgeeks.org/problems/largest-value-in-each-level/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 300
+  },
+  {
+    "name": "Perfect Binary Tree",
+    "link": "https://practice.geeksforgeeks.org/problems/perfect-binary-tree/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 301
+  },
+  {
+    "name": "Nodes at Odd Levels",
+    "link": "https://practice.geeksforgeeks.org/problems/nodes-at-odd-levels/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 302
+  },
+  {
+    "name": "Remove Half Nodes",
+    "link": "https://practice.geeksforgeeks.org/problems/remove-half-nodes/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 303
+  },
+  {
+    "name": "Find the maximum GCD of the siblings of a Binary Tree",
+    "link": "https://practice.geeksforgeeks.org/problems/6eb51dc638ee1b936f38d1ab4b2f7062d4425463/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 304
+  },
+  {
+    "name": "Maximum Node Level",
+    "link": "https://practice.geeksforgeeks.org/problems/maximum-node-level/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 305
+  },
+  {
+    "name": "Deletion in a Binary Tree",
+    "link": "https://practice.geeksforgeeks.org/problems/deletion-in-a-binary-tree/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 306
+  },
+  {
+    "name": "Check if two Nodes are Cousins",
+    "link": "https://practice.geeksforgeeks.org/problems/check-if-two-nodes-are-cousins/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 307
+  },
+  {
+    "name": "Vertical Order traversal of Binary Tree",
+    "link": "https://www.interviewbit.com/problems/vertical-order-traversal-of-binary-tree/",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 308
+  },
+  {
+    "name": "Diagonal Traversal",
+    "link": "https://www.interviewbit.com/problems/diagonal-traversal/",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 309
+  },
+  {
+    "name": "Flatten Binary Tree to Linked List",
+    "link": "https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 310
+  },
+  {
+    "name": "Merge two Binary Tree",
+    "link": "https://www.interviewbit.com/problems/merge-two-binary-tree/",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 311
+  },
+  {
+    "name": "Maximum Edge Removal",
+    "link": "https://www.interviewbit.com/problems/maximum-edge-removal/",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 312
+  },
+  {
+    "name": "Populate Next Right Pointers Tree",
+    "link": "https://www.interviewbit.com/problems/populate-next-right-pointers-tree/",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 313
+  },
+  {
+    "name": "Burn a Tree",
+    "link": "https://www.interviewbit.com/problems/burn-a-tree/",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 314
+  },
+  {
+    "name": "Boundary Traversal of binary tree",
+    "link": "https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 315
+  },
+  {
+    "name": "Diameter of a Binary Tree",
+    "link": "https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 316
+  },
+  {
+    "name": "Sum Tree",
+    "link": "https://practice.geeksforgeeks.org/problems/sum-tree/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 317
+  },
+  {
+    "name": "Top View of Binary Tree",
+    "link": "https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 318
+  },
+  {
+    "name": "Bottom View of Binary Tree",
+    "link": "https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 319
+  },
+  {
+    "name": "Lowest Common Ancestor in a Binary Tree",
+    "link": "https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 320
+  },
+  {
+    "name": "Maximum difference between node and its ancestor",
+    "link": "https://practice.geeksforgeeks.org/problems/maximum-difference-between-node-and-its-ancestor/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 321
+  },
+  {
+    "name": "Serialize and Deserialize a Binary Tree",
+    "link": "https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 322
+  },
+  {
+    "name": "Maximum sum of Non-adjacent nodes",
+    "link": "https://practice.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 323
+  },
+  {
+    "name": "Foldable Binary Tree",
+    "link": "https://practice.geeksforgeeks.org/problems/foldable-binary-tree/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 324
+  },
+  {
+    "name": "Construct Binary Tree from Parent Array",
+    "link": "https://practice.geeksforgeeks.org/problems/construct-binary-tree-from-parent-array/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 325
+  },
+  {
+    "name": "Make Binary Tree From Linked List",
+    "link": "https://practice.geeksforgeeks.org/problems/make-binary-tree/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 326
+  },
+  {
+    "name": "Check Mirror in N-ary tree",
+    "link": "https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree1528/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 327
+  },
+  {
+    "name": "Inorder Traversal (Iterative)",
+    "link": "https://practice.geeksforgeeks.org/problems/inorder-traversal-iterative/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 328
+  },
+  {
+    "name": "Postorder Traversal (Iterative)",
+    "link": "https://practice.geeksforgeeks.org/problems/postorder-traversal-iterative/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 329
+  },
+  {
+    "name": "Print Nodes having K leaves",
+    "link": "https://practice.geeksforgeeks.org/problems/print-nodes-having-k-leaves/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 330
+  },
+  {
+    "name": "Print Binary Tree levels in sorted order",
+    "link": "https://practice.geeksforgeeks.org/problems/print-binary-tree-levels-in-sorted-order3241/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 331
+  },
+  {
+    "name": "Nodes at given distance in binary tree",
+    "link": "https://practice.geeksforgeeks.org/problems/nodes-at-given-distance-in-binary-tree/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Hard",
+    "order": 332
+  },
+  {
+    "name": "Burning Tree",
+    "link": "https://practice.geeksforgeeks.org/problems/burning-tree/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Hard",
+    "order": 333
+  },
+  {
+    "name": "Check if all levels of two trees are anagrams or not",
+    "link": "https://practice.geeksforgeeks.org/problems/check-if-all-levels-of-two-trees-are-anagrams-or-not/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Hard",
+    "order": 334
+  },
+  {
+    "name": "Binary Tree to DLL",
+    "link": "https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Hard",
+    "order": 335
+  },
+  {
+    "name": "Maximum Path Sum between 2 Special Nodes",
+    "link": "https://practice.geeksforgeeks.org/problems/maximum-path-sum/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Hard",
+    "order": 336
+  },
+  {
+    "name": "Scrambled String",
+    "link": "https://practice.geeksforgeeks.org/problems/scrambled-string/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Hard",
+    "order": 337
+  },
+  {
+    "name": "Check Tree Traversal",
+    "link": "https://practice.geeksforgeeks.org/problems/cb02d40f50b0113c47cd9036e5f340bb51b32289/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Hard",
+    "order": 338
+  },
+  {
+    "name": "Corona Vaccine",
+    "link": "https://practice.geeksforgeeks.org/problems/d1afdbd3d49e4e7e6f9d738606cd592f63e6b0f0/1",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Hard",
+    "order": 339
+  },
+  {
+    "name": "Recover a Tree From Preorder",
+    "link": "https://leetcode.com/problems/recover-a-tree-from-preorder-traversal",
+    "tags": [
+      "Tree"
+    ],
+    "difficulty": "Hard",
+    "order": 340
+  },
+  {
+    "name": "Search a node in BST",
+    "link": "https://practice.geeksforgeeks.org/problems/search-a-node-in-bst/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 342
+  },
+  {
+    "name": "Minimum element in BST",
+    "link": "https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 343
+  },
+  {
+    "name": "Check for BST",
+    "link": "https://practice.geeksforgeeks.org/problems/check-for-bst/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 344
+  },
+  {
+    "name": "Insert a node in a BST",
+    "link": "https://practice.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 345
+  },
+  {
+    "name": "Kth largest element in BST",
+    "link": "https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 346
+  },
+  {
+    "name": "Inorder Traversal and BST",
+    "link": "https://practice.geeksforgeeks.org/problems/inorder-traversal-and-bst5855/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 347
+  },
+  {
+    "name": "Binary Tree to BST",
+    "link": "https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 348
+  },
+  {
+    "name": "Median of BST",
+    "link": "https://practice.geeksforgeeks.org/problems/median-of-bst/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 349
+  },
+  {
+    "name": "Kth Smallest Element In Tree",
+    "link": "https://www.interviewbit.com/problems/kth-smallest-element-in-tree/",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 350
+  },
+  {
+    "name": "BST Iterator",
+    "link": "https://www.interviewbit.com/problems/bst-iterator/",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 351
+  },
+  {
+    "name": "2-Sum Binary Tree",
+    "link": "https://www.interviewbit.com/problems/2sum-binary-tree/",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 352
+  },
+  {
+    "name": "Find Common Nodes in two BSTs",
+    "link": "https://practice.geeksforgeeks.org/problems/print-common-nodes-in-bst/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 353
+  },
+  {
+    "name": "Array to BST",
+    "link": "https://practice.geeksforgeeks.org/problems/array-to-bst4443/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 354
+  },
+  {
+    "name": "Inorder Successor in BST",
+    "link": "https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 355
+  },
+  {
+    "name": "Print BST elements in given range",
+    "link": "https://practice.geeksforgeeks.org/problems/print-bst-elements-in-given-range/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 356
+  },
+  {
+    "name": "Check whether BST contains Dead End",
+    "link": "https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 357
+  },
+  {
+    "name": "Brothers From Different Roots",
+    "link": "https://practice.geeksforgeeks.org/problems/brothers-from-different-root/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 358
+  },
+  {
+    "name": "Sum of k smallest elements in BST",
+    "link": "https://practice.geeksforgeeks.org/problems/sum-of-k-smallest-elements-in-bst3029/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 359
+  },
+  {
+    "name": "Minimum Distance Between",
+    "link": "https://leetcode.com/problems/minimum-distance-between-bst-nodes",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 360
+  },
+  {
+    "name": "Normal BST to Balanced BST",
+    "link": "https://practice.geeksforgeeks.org/problems/normal-bst-to-balanced-bst/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 361
+  },
+  {
+    "name": "Construct BST from Postorder",
+    "link": "https://practice.geeksforgeeks.org/problems/construct-bst-from-post-order/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 362
+  },
+  {
+    "name": "Recover Binary Search Tree",
+    "link": "https://www.interviewbit.com/problems/recover-binary-search-tree/",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 363
+  },
+  {
+    "name": "Valid BST from Preorder",
+    "link": "https://www.interviewbit.com/problems/valid-bst-from-preorder/",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 364
+  },
+  {
+    "name": "k-th smallest element in BST",
+    "link": "https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 365
+  },
+  {
+    "name": "Delete a node from BST",
+    "link": "https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 366
+  },
+  {
+    "name": "Largest BST",
+    "link": "https://practice.geeksforgeeks.org/problems/largest-bst/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 367
+  },
+  {
+    "name": "Predecessor and Successor",
+    "link": "https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 368
+  },
+  {
+    "name": "Preorder to PostOrder",
+    "link": "https://practice.geeksforgeeks.org/problems/preorder-to-postorder4423/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 369
+  },
+  {
+    "name": "Find the Closest Element in BST",
+    "link": "https://practice.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 370
+  },
+  {
+    "name": "Ceil in BST",
+    "link": "https://practice.geeksforgeeks.org/problems/implementing-ceil-in-bst/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 371
+  },
+  {
+    "name": "Preorder Traversal and BST",
+    "link": "https://practice.geeksforgeeks.org/problems/preorder-traversal-and-bst4006/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 372
+  },
+  {
+    "name": "Bheem Wants Ladoos",
+    "link": "https://practice.geeksforgeeks.org/problems/9b61b8efbb030aed799055f776629dbf1287fbae/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 373
+  },
+  {
+    "name": "Minimum Absolute Difference In BST",
+    "link": "https://practice.geeksforgeeks.org/problems/minimum-absolute-difference-in-bst-1665139652/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 374
+  },
+  {
+    "name": "Valentine Sum",
+    "link": "https://practice.geeksforgeeks.org/problems/0f02fb492c69c094d94e806cba6ff8d8cd04d630/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 375
+  },
+  {
+    "name": "Pairs violating BST property",
+    "link": "https://practice.geeksforgeeks.org/problems/pairs-violating-bst-property/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 376
+  },
+  {
+    "name": "Remove BST keys outside given range",
+    "link": "https://practice.geeksforgeeks.org/problems/remove-bst-keys-outside-given-range/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 377
+  },
+  {
+    "name": "Print leaf nodes from preorder traversal of BST",
+    "link": "https://practice.geeksforgeeks.org/problems/print-leaf-nodes-from-preorder-traversal-of-bst2657/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 378
+  },
+  {
+    "name": "Delete nodes greater than k",
+    "link": "https://practice.geeksforgeeks.org/problems/delete-nodes-greater-than-k/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 379
+  },
+  {
+    "name": "Balance a Binary Search Tree",
+    "link": "https://leetcode.com/problems/balance-a-binary-search-tree",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 380
+  },
+  {
+    "name": "Merge two BST 's",
+    "link": "https://practice.geeksforgeeks.org/problems/merge-two-bst-s/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Hard",
+    "order": 381
+  },
+  {
+    "name": "Fixing Two nodes of a BST",
+    "link": "https://practice.geeksforgeeks.org/problems/fixed-two-nodes-of-a-bst/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Hard",
+    "order": 382
+  },
+  {
+    "name": "Fixing Two swapped nodes of a BST",
+    "link": "https://practice.geeksforgeeks.org/problems/6c4053871794c5e7a0817d7eaf88d71c4bb4c2bc/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Hard",
+    "order": 383
+  },
+  {
+    "name": "Sorted Link List to BST",
+    "link": "https://practice.geeksforgeeks.org/problems/sorted-list-to-bst/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Hard",
+    "order": 384
+  },
+  {
+    "name": "Shortest Range In BST",
+    "link": "https://practice.geeksforgeeks.org/problems/5fbdb297e0fcb7703e7dee4b4f0ada9cc7e47bd8/1",
+    "tags": [
+      "Binary Search Tree"
+    ],
+    "difficulty": "Hard",
+    "order": 385
+  },
+  {
+    "name": "Height of Heap",
+    "link": "https://practice.geeksforgeeks.org/problems/height-of-heap5025/1",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Easy",
+    "order": 388
+  },
+  {
+    "name": "Relative Ranks",
+    "link": "https://leetcode.com/problems/relative-ranks",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Easy",
+    "order": 389
+  },
+  {
+    "name": "Last Stone Weight",
+    "link": "https://leetcode.com/problems/last-stone-weight",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Easy",
+    "order": 390
+  },
+  {
+    "name": "Profit Maximisation",
+    "link": "https://www.interviewbit.com/problems/profit-maximisation/",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Easy",
+    "order": 391
+  },
+  {
+    "name": "Maximum Product of Two Elem",
+    "link": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Easy",
+    "order": 392
+  },
+  {
+    "name": "Largest Number After Digit Swaps by Parity",
+    "link": "https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Easy",
+    "order": 393
+  },
+  {
+    "name": "Minimum Amount of Time to Fil",
+    "link": "https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Easy",
+    "order": 394
+  },
+  {
+    "name": "Take Gifts From the Richest P",
+    "link": "https://leetcode.com/problems/take-gifts-from-the-richest-pile",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Easy",
+    "order": 395
+  },
+  {
+    "name": "Minimum Cost of ropes",
+    "link": "https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Easy",
+    "order": 396
+  },
+  {
+    "name": "Sum of elements between k1'th and k2'th smallest elements",
+    "link": "https://practice.geeksforgeeks.org/problems/sum-of-elements-between-k1th-and-k2th-smallest-elements3133/1",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Easy",
+    "order": 397
+  },
+  {
+    "name": "Merge two binary Max heaps",
+    "link": "https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Easy",
+    "order": 398
+  },
+  {
+    "name": "Maximum distinct elements after removing K elements",
+    "link": "https://practice.geeksforgeeks.org/problems/maximum-distinct-elements-after-removing-k-elements5906/1",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Easy",
+    "order": 399
+  },
+  {
+    "name": "Gadgets of Doraland",
+    "link": "https://practice.geeksforgeeks.org/problems/bbd15e2da95880979ce65acc7360e2c5681664e65520/1",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Easy",
+    "order": 400
+  },
+  {
+    "name": "Merge K sorted arrays!",
+    "link": "https://www.interviewbit.com/problems/merge-k-sorted-arrays/",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Easy",
+    "order": 401
+  },
+  {
+    "name": "Magician and Chocolates",
+    "link": "https://www.interviewbit.com/problems/magician-and-chocolates/",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Easy",
+    "order": 402
+  },
+  {
+    "name": "Heap Sort",
+    "link": "https://practice.geeksforgeeks.org/problems/heap-sort/1",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Medium",
+    "order": 403
+  },
+  {
+    "name": "k largest elements",
+    "link": "https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Medium",
+    "order": 404
+  },
+  {
+    "name": "Kth largest element in a stream",
+    "link": "https://practice.geeksforgeeks.org/problems/kth-largest-element-in-a-stream2220/1",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Medium",
+    "order": 405
+  },
+  {
+    "name": "Is Binary Tree Heap",
+    "link": "https://practice.geeksforgeeks.org/problems/is-binary-tree-heap/1",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Medium",
+    "order": 406
+  },
+  {
+    "name": "Kth element in Matrix",
+    "link": "https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Medium",
+    "order": 407
+  },
+  {
+    "name": "Huffman Encoding",
+    "link": "https://practice.geeksforgeeks.org/problems/huffman-encoding3345/1",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Medium",
+    "order": 408
+  },
+  {
+    "name": "K-th Smallest Prime Fraction",
+    "link": "https://leetcode.com/problems/k-th-smallest-prime-fraction",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Medium",
+    "order": 409
+  },
+  {
+    "name": "Exam Room",
+    "link": "https://leetcode.com/problems/exam-room",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Medium",
+    "order": 410
+  },
+  {
+    "name": "Rearrange characters",
+    "link": "https://practice.geeksforgeeks.org/problems/rearrange-characters4649/1",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Medium",
+    "order": 411
+  },
+  {
+    "name": "BST to max heap",
+    "link": "https://practice.geeksforgeeks.org/problems/bst-to-max-heap/1",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Medium",
+    "order": 412
+  },
+  {
+    "name": "Design Twitter",
+    "link": "https://practice.geeksforgeeks.org/problems/design-twitter/1",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Medium",
+    "order": 413
+  },
+  {
+    "name": "Minimum increment/decrement to make array non-Increasing",
+    "link": "https://practice.geeksforgeeks.org/problems/bf249fb32af71fc4e294b123d99e668a91652be4/1",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Medium",
+    "order": 414
+  },
+  {
+    "name": "Find median in a stream",
+    "link": "https://practice.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Hard",
+    "order": 415
+  },
+  {
+    "name": "Smallest range in K lists",
+    "link": "https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Hard",
+    "order": 416
+  },
+  {
+    "name": "Reachable Nodes In Subdivided Graph",
+    "link": "https://leetcode.com/problems/reachable-nodes-in-subdivided-graph",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Hard",
+    "order": 417
+  },
+  {
+    "name": "Ways to form Max Heap",
+    "link": "https://www.interviewbit.com/problems/ways-to-form-max-heap/",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Hard",
+    "order": 418
+  },
+  {
+    "name": "Maximum Sum Combinations",
+    "link": "https://www.interviewbit.com/problems/maximum-sum-combinations/",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Hard",
+    "order": 419
+  },
+  {
+    "name": "Dinner Plate Stacks",
+    "link": "https://leetcode.com/problems/dinner-plate-stacks",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Hard",
+    "order": 420
+  },
+  {
+    "name": "Construct Target Array With",
+    "link": "https://leetcode.com/problems/construct-target-array-with-multiple-sums",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Hard",
+    "order": 421
+  },
+  {
+    "name": "Minimum Time to Visit a Cell In a Grid",
+    "link": "https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid",
+    "tags": [
+      "Heaps"
+    ],
+    "difficulty": "Hard",
+    "order": 422
+  },
+  {
+    "name": "Bulbs",
+    "link": "https://www.interviewbit.com/problems/interview-questions/",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Easy",
+    "order": 424
+  },
+  {
+    "name": "Ishaan Loves Chocolates",
+    "link": "https://practice.geeksforgeeks.org/problems/ishaan-loves-chocolates2156/1",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Easy",
+    "order": 425
+  },
+  {
+    "name": "Assign Mice to Holes",
+    "link": "https://www.interviewbit.com/problems/assign-mice-to-holes/",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Easy",
+    "order": 426
+  },
+  {
+    "name": "Majority Element",
+    "link": "https://www.interviewbit.com/problems/majority-element/",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Easy",
+    "order": 427
+  },
+  {
+    "name": "Highest Product",
+    "link": "https://www.interviewbit.com/problems/highest-product/",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Easy",
+    "order": 428
+  },
+  {
+    "name": "Swap and Maximize",
+    "link": "https://practice.geeksforgeeks.org/problems/swap-and-maximize5859/1",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Easy",
+    "order": 429
+  },
+  {
+    "name": "Good or Bad string",
+    "link": "https://practice.geeksforgeeks.org/problems/good-or-bad-string1417/1",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Easy",
+    "order": 430
+  },
+  {
+    "name": "N meetings in one room",
+    "link": "https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Easy",
+    "order": 431
+  },
+  {
+    "name": "Longest Palindrome",
+    "link": "https://leetcode.com/problems/longest-palindrome",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Easy",
+    "order": 432
+  },
+  {
+    "name": "Assign Cookies",
+    "link": "https://leetcode.com/problems/assign-cookies",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Easy",
+    "order": 433
+  },
+  {
+    "name": "Can Place Flowers",
+    "link": "https://leetcode.com/problems/can-place-flowers",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Easy",
+    "order": 434
+  },
+  {
+    "name": "Valid Palindrome II",
+    "link": "https://leetcode.com/problems/valid-palindrome-ii",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Easy",
+    "order": 435
+  },
+  {
+    "name": "Minimum Cost to Move Chips",
+    "link": "https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Easy",
+    "order": 436
+  },
+  {
+    "name": "Raju and coins",
+    "link": "https://practice.geeksforgeeks.org/problems/raju-and-coins1932/1",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Easy",
+    "order": 437
+  },
+  {
+    "name": "Huffman Decoding",
+    "link": "https://practice.geeksforgeeks.org/problems/huffman-decoding/1",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Easy",
+    "order": 438
+  },
+  {
+    "name": "Huffman Decoding-1",
+    "link": "https://practice.geeksforgeeks.org/problems/huffman-decoding-1/1",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Easy",
+    "order": 439
+  },
+  {
+    "name": "Largest number with given sum",
+    "link": "https://practice.geeksforgeeks.org/problems/largest-number-with-given-sum-1587115620/1",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Easy",
+    "order": 440
+  },
+  {
+    "name": "Disjoint Intervals",
+    "link": "https://www.interviewbit.com/problems/disjoint-intervals/",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Medium",
+    "order": 441
+  },
+  {
+    "name": "Meeting rooms",
+    "link": "https://www.interviewbit.com/problems/meeting-rooms/",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Medium",
+    "order": 442
+  },
+  {
+    "name": "Minimum number of jumps",
+    "link": "https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Medium",
+    "order": 443
+  },
+  {
+    "name": "Majority Element",
+    "link": "https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Medium",
+    "order": 444
+  },
+  {
+    "name": "Minimize the Heights I",
+    "link": "https://practice.geeksforgeeks.org/problems/minimize-the-heights-i/1",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Medium",
+    "order": 445
+  },
+  {
+    "name": "Minimize the Heights II",
+    "link": "https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Medium",
+    "order": 446
+  },
+  {
+    "name": "Minimum Platforms",
+    "link": "https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Medium",
+    "order": 447
+  },
+  {
+    "name": "Fractional Knapsack",
+    "link": "https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Medium",
+    "order": 448
+  },
+  {
+    "name": "Page Faults in LRU",
+    "link": "https://practice.geeksforgeeks.org/problems/page-faults-in-lru5603/1",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Medium",
+    "order": 449
+  },
+  {
+    "name": "Valid Compressed String",
+    "link": "https://practice.geeksforgeeks.org/problems/13eb74f1c80bc67d526a69b8276f6cad1b8c3401/1",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Medium",
+    "order": 450
+  },
+  {
+    "name": "String rp or pr",
+    "link": "https://practice.geeksforgeeks.org/problems/d25f415de2ff3e02134de03e17ad019d723ab2e9/1",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Medium",
+    "order": 451
+  },
+  {
+    "name": "Coin Piles",
+    "link": "https://practice.geeksforgeeks.org/problems/coin-piles5152/1",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Medium",
+    "order": 452
+  },
+  {
+    "name": "Police and Thieves",
+    "link": "https://practice.geeksforgeeks.org/problems/e47329920b4e75869ea7b0e9b7c59ea145ccc22c/1",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Medium",
+    "order": 453
+  },
+  {
+    "name": "Maximum number of events that can be attended",
+    "link": "https://practice.geeksforgeeks.org/problems/ea8230731ccb057120bafb351c10c48b2d496125/1",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Medium",
+    "order": 454
+  },
+  {
+    "name": "Water the plants",
+    "link": "https://practice.geeksforgeeks.org/problems/410d51d667ab93f2219b15126f001f32e8bb029e/1",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Medium",
+    "order": 455
+  },
+  {
+    "name": "Binary Searchable elements",
+    "link": "https://practice.geeksforgeeks.org/problems/binary-searchable-elements/1",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Medium",
+    "order": 456
+  },
+  {
+    "name": "Decrease Elements To Make A",
+    "link": "https://leetcode.com/problems/decrease-elements-to-make-array-zigzag",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Medium",
+    "order": 457
+  },
+  {
+    "name": "Minimum Cost to Move Chips to The Same Position",
+    "link": "https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Medium",
+    "order": 458
+  },
+  {
+    "name": "Largest Permutation",
+    "link": "https://www.interviewbit.com/problems/largest-permutation/",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Hard",
+    "order": 459
+  },
+  {
+    "name": "Distribute Candy",
+    "link": "https://www.interviewbit.com/problems/distribute-candy/",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Hard",
+    "order": 460
+  },
+  {
+    "name": "Seats",
+    "link": "https://www.interviewbit.com/problems/seats/",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Hard",
+    "order": 461
+  },
+  {
+    "name": "Gas Station",
+    "link": "https://www.interviewbit.com/problems/gas-station/",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Hard",
+    "order": 462
+  },
+  {
+    "name": "Candy",
+    "link": "https://practice.geeksforgeeks.org/problems/candy/1",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Hard",
+    "order": 463
+  },
+  {
+    "name": "Patching Array",
+    "link": "https://leetcode.com/problems/patching-array",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Hard",
+    "order": 464
+  },
+  {
+    "name": "Strong Password Checker",
+    "link": "https://leetcode.com/problems/strong-password-checker",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Hard",
+    "order": 465
+  },
+  {
+    "name": "IPO",
+    "link": "https://leetcode.com/problems/ipo",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Hard",
+    "order": 466
+  },
+  {
+    "name": "Super Washing Machines",
+    "link": "https://leetcode.com/problems/super-washing-machines",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Hard",
+    "order": 467
+  },
+  {
+    "name": "Course Schedule III",
+    "link": "https://leetcode.com/problems/course-schedule-iii",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Hard",
+    "order": 468
+  },
+  {
+    "name": "Stamping The Sequence",
+    "link": "https://leetcode.com/problems/stamping-the-sequence",
+    "tags": [
+      "Greedy"
+    ],
+    "difficulty": "Hard",
+    "order": 469
+  },
+  {
+    "name": "Find all possible paths from top to bottom",
+    "link": "https://practice.geeksforgeeks.org/problems/find-all-possible-paths-from-top-to-bottom/1",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Easy",
+    "order": 471
+  },
+  {
+    "name": "Combinations",
+    "link": "https://www.interviewbit.com/problems/combinations/",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Easy",
+    "order": 472
+  },
+  {
+    "name": "Binary Tree Paths",
+    "link": "https://leetcode.com/problems/binary-tree-paths",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Easy",
+    "order": 473
+  },
+  {
+    "name": "Gray Code",
+    "link": "https://www.interviewbit.com/problems/gray-code/",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Easy",
+    "order": 474
+  },
+  {
+    "name": "Letter Phone",
+    "link": "https://www.interviewbit.com/problems/letter-phone/",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Easy",
+    "order": 475
+  },
+  {
+    "name": "Generate all Parentheses II",
+    "link": "https://www.interviewbit.com/problems/generate-all-parentheses-ii/",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Easy",
+    "order": 476
+  },
+  {
+    "name": "Permutation with Spaces",
+    "link": "https://practice.geeksforgeeks.org/problems/permutation-with-spaces3627/1",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Easy",
+    "order": 477
+  },
+  {
+    "name": "Binary Watch",
+    "link": "https://leetcode.com/problems/binary-watch",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Easy",
+    "order": 478
+  },
+  {
+    "name": "Generate IP Addresses",
+    "link": "https://practice.geeksforgeeks.org/problems/generate-ip-addresses/1",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Medium",
+    "order": 479
+  },
+  {
+    "name": "Sudoku",
+    "link": "https://www.interviewbit.com/problems/sudoku/",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Medium",
+    "order": 480
+  },
+  {
+    "name": "Permutations",
+    "link": "https://www.interviewbit.com/problems/permutations/",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Medium",
+    "order": 481
+  },
+  {
+    "name": "Maximal String",
+    "link": "https://www.interviewbit.com/problems/maximal-string/",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Medium",
+    "order": 482
+  },
+  {
+    "name": "Kth Permutation Sequence",
+    "link": "https://www.interviewbit.com/problems/kth-permutation-sequence/",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Medium",
+    "order": 483
+  },
+  {
+    "name": "Palindrome Partitioning",
+    "link": "https://www.interviewbit.com/problems/palindrome-partitioning/",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Medium",
+    "order": 484
+  },
+  {
+    "name": "Permutations of a given string",
+    "link": "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Medium",
+    "order": 485
+  },
+  {
+    "name": "M-Coloring Problem",
+    "link": "https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Medium",
+    "order": 486
+  },
+  {
+    "name": "Combination Sum",
+    "link": "https://practice.geeksforgeeks.org/problems/combination-sum-1587115620/1",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Medium",
+    "order": 487
+  },
+  {
+    "name": "Rat in a Maze Problem - I",
+    "link": "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Medium",
+    "order": 488
+  },
+  {
+    "name": "Largest number in K swaps",
+    "link": "https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Medium",
+    "order": 489
+  },
+  {
+    "name": "Unique Subsets",
+    "link": "https://practice.geeksforgeeks.org/problems/subsets-1587115621/1",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Medium",
+    "order": 490
+  },
+  {
+    "name": "Generate Parentheses",
+    "link": "https://practice.geeksforgeeks.org/problems/generate-all-possible-parentheses/1",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Medium",
+    "order": 491
+  },
+  {
+    "name": "Rat Maze With Multiple Jumps",
+    "link": "https://practice.geeksforgeeks.org/problems/rat-maze-with-multiple-jumps3852/1",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Medium",
+    "order": 492
+  },
+  {
+    "name": "Coins and Game",
+    "link": "https://practice.geeksforgeeks.org/problems/coins-and-game4529/1",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Medium",
+    "order": 493
+  },
+  {
+    "name": "NQueens",
+    "link": "https://www.interviewbit.com/problems/nqueens/",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Hard",
+    "order": 494
+  },
+  {
+    "name": "24 Game",
+    "link": "https://leetcode.com/problems/24-game",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Hard",
+    "order": 495
+  },
+  {
+    "name": "Maximum Good People Based on Statements",
+    "link": "https://leetcode.com/problems/maximum-good-people-based-on-statements",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Hard",
+    "order": 496
+  },
+  {
+    "name": "Expression Add Operators",
+    "link": "https://practice.geeksforgeeks.org/problems/expression-add-operators/1",
+    "tags": [
+      "BackTracking"
+    ],
+    "difficulty": "Hard",
+    "order": 497
+  },
+  {
+    "name": "First Repeating element",
+    "link": "https://www.interviewbit.com/problems/first-repeating-element/",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Easy",
+    "order": 499
+  },
+  {
+    "name": "2 Sum",
+    "link": "https://www.interviewbit.com/problems/2-sum/",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Easy",
+    "order": 500
+  },
+  {
+    "name": "Union of two arrays",
+    "link": "https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Easy",
+    "order": 501
+  },
+  {
+    "name": "First element to occur k times",
+    "link": "https://practice.geeksforgeeks.org/problems/first-element-to-occur-k-times5150/1",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Easy",
+    "order": 502
+  },
+  {
+    "name": "Diffk II",
+    "link": "https://www.interviewbit.com/problems/diffk-ii/",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Easy",
+    "order": 503
+  },
+  {
+    "name": "Longest Substring Without Repeat",
+    "link": "https://www.interviewbit.com/problems/longest-substring-without-repeat/",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Easy",
+    "order": 504
+  },
+  {
+    "name": "Pairs With Given Xor",
+    "link": "https://www.interviewbit.com/problems/pairs-with-given-xor/",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Easy",
+    "order": 505
+  },
+  {
+    "name": "Sum of f(a[i], a[j]) over all pairs in an array of n integers",
+    "link": "https://practice.geeksforgeeks.org/problems/sum-of-fai-aj-over-all-pairs-in-an-array-of-n-integers4057/1",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Easy",
+    "order": 506
+  },
+  {
+    "name": "Substrings with same first and last characters",
+    "link": "https://practice.geeksforgeeks.org/problems/substrings-with-similar-first-and-last-characters3644/1",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Easy",
+    "order": 507
+  },
+  {
+    "name": "Largest subarray with 0 sum",
+    "link": "https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Easy",
+    "order": 508
+  },
+  {
+    "name": "Count distinct elements in every window",
+    "link": "https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Easy",
+    "order": 509
+  },
+  {
+    "name": "Largest subarray of 0's and 1's",
+    "link": "https://practice.geeksforgeeks.org/problems/largest-subarray-of-0s-and-1s/1",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Easy",
+    "order": 510
+  },
+  {
+    "name": "Longest consecutive subsequence",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Medium",
+    "order": 511
+  },
+  {
+    "name": "Colorful Number",
+    "link": "https://www.interviewbit.com/problems/colorful-number/",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Medium",
+    "order": 512
+  },
+  {
+    "name": "Subarray with B odd numbers",
+    "link": "https://www.interviewbit.com/problems/subarray-with-b-odd-numbers/",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Medium",
+    "order": 513
+  },
+  {
+    "name": "An Increment Problem",
+    "link": "https://www.interviewbit.com/problems/an-increment-problem/",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Medium",
+    "order": 514
+  },
+  {
+    "name": "Substring Concatenation",
+    "link": "https://www.interviewbit.com/problems/substring-concatenation/",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Medium",
+    "order": 515
+  },
+  {
+    "name": "Copy List",
+    "link": "https://www.interviewbit.com/problems/copy-list/",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Medium",
+    "order": 516
+  },
+  {
+    "name": "Triplet Sum in Array",
+    "link": "https://practice.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Medium",
+    "order": 517
+  },
+  {
+    "name": "Nuts and Bolts Problem",
+    "link": "https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Medium",
+    "order": 518
+  },
+  {
+    "name": "Subarrays with equal 1s and 0s",
+    "link": "https://practice.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620/1",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Medium",
+    "order": 519
+  },
+  {
+    "name": "Longest subarray with sum divisible by K",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-subarray-with-sum-divisible-by-k1259/1",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Medium",
+    "order": 520
+  },
+  {
+    "name": "Equal 0, 1 and 2",
+    "link": "https://practice.geeksforgeeks.org/problems/equal-0-1-and-23208/1",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Medium",
+    "order": 521
+  },
+  {
+    "name": "Points on the Straight Line",
+    "link": "https://www.interviewbit.com/problems/points-on-the-straight-line/",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Hard",
+    "order": 522
+  },
+  {
+    "name": "Fraction",
+    "link": "https://www.interviewbit.com/problems/fraction/",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Hard",
+    "order": 523
+  },
+  {
+    "name": "Window String",
+    "link": "https://www.interviewbit.com/problems/window-string/",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Hard",
+    "order": 524
+  },
+  {
+    "name": "4 Sum",
+    "link": "https://www.interviewbit.com/problems/4-sum/",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Hard",
+    "order": 525
+  },
+  {
+    "name": "Two out of Three",
+    "link": "https://www.interviewbit.com/problems/two-out-of-three/",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Hard",
+    "order": 526
+  },
+  {
+    "name": "Joey doesn't share food",
+    "link": "https://practice.geeksforgeeks.org/problems/joey-doesnt-share-food5712/1",
+    "tags": [
+      "Hashing"
+    ],
+    "difficulty": "Hard",
+    "order": 527
+  },
+  {
+    "name": "BFS of graph",
+    "link": "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Easy",
+    "order": 529
+  },
+  {
+    "name": "DFS of Graph",
+    "link": "https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Easy",
+    "order": 530
+  },
+  {
+    "name": "Shortest path from 1 to n",
+    "link": "https://practice.geeksforgeeks.org/problems/shortest-path-from-1-to-n0156/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Easy",
+    "order": 531
+  },
+  {
+    "name": "Print adjacency list",
+    "link": "https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Easy",
+    "order": 532
+  },
+  {
+    "name": "Maximum Weight Node",
+    "link": "https://practice.geeksforgeeks.org/problems/b64485d3994958cca8748991bb58668204b3e4c0/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Easy",
+    "order": 533
+  },
+  {
+    "name": "Union-Find",
+    "link": "https://practice.geeksforgeeks.org/problems/union-find/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Easy",
+    "order": 534
+  },
+  {
+    "name": "Eulerian Path in an Undirected Graph",
+    "link": "https://practice.geeksforgeeks.org/problems/eulerian-path-in-an-undirected-graph5052/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Easy",
+    "order": 535
+  },
+  {
+    "name": "Find the Town Judge",
+    "link": "https://leetcode.com/problems/find-the-town-judge",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Easy",
+    "order": 536
+  },
+  {
+    "name": "Find Center of Star Graph",
+    "link": "https://leetcode.com/problems/find-center-of-star-graph",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Easy",
+    "order": 537
+  },
+  {
+    "name": "Path with good nodes!",
+    "link": "https://www.interviewbit.com/problems/path-with-good-nodes/",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Easy",
+    "order": 538
+  },
+  {
+    "name": "Largest Distance between nodes of a Tree",
+    "link": "https://www.interviewbit.com/problems/largest-distance-between-nodes-of-a-tree/",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Easy",
+    "order": 539
+  },
+  {
+    "name": "Two teams?",
+    "link": "https://www.interviewbit.com/problems/two-teams/",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Easy",
+    "order": 540
+  },
+  {
+    "name": "Region in BinaryMatrix",
+    "link": "https://www.interviewbit.com/problems/region-in-binarymatrix/",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Easy",
+    "order": 541
+  },
+  {
+    "name": "Level Order",
+    "link": "https://www.interviewbit.com/problems/level-order/",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Easy",
+    "order": 542
+  },
+  {
+    "name": "Black Shapes",
+    "link": "https://www.interviewbit.com/problems/black-shapes/",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Easy",
+    "order": 543
+  },
+  {
+    "name": "Detect cycle in an undirected graph",
+    "link": "https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 544
+  },
+  {
+    "name": "Detect cycle in a directed graph",
+    "link": "https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 545
+  },
+  {
+    "name": "Topological sort",
+    "link": "https://practice.geeksforgeeks.org/problems/topological-sort/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 546
+  },
+  {
+    "name": "Bipartite Graph",
+    "link": "https://practice.geeksforgeeks.org/problems/bipartite-graph/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 547
+  },
+  {
+    "name": "Implementing Dijkstra Algorithm",
+    "link": "https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 548
+  },
+  {
+    "name": "Minimum Spanning Tree(Kruksal and Prims)",
+    "link": "https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 549
+  },
+  {
+    "name": "Strongly Connected Components (Kosaraju's Algo)",
+    "link": "https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 550
+  },
+  {
+    "name": "Distance from the Source (Bellman-Ford Algorithm)",
+    "link": "https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 551
+  },
+  {
+    "name": "Euler circuit and Path",
+    "link": "https://practice.geeksforgeeks.org/problems/euler-circuit-and-path/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 552
+  },
+  {
+    "name": "Rotten Oranges",
+    "link": "https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 553
+  },
+  {
+    "name": "Steps by Knight",
+    "link": "https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 554
+  },
+  {
+    "name": "Flood fill Algorithm",
+    "link": "https://practice.geeksforgeeks.org/problems/flood-fill-algorithm1856/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 555
+  },
+  {
+    "name": "Find the number of islands",
+    "link": "https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 556
+  },
+  {
+    "name": "Shortest Source to Destination Path",
+    "link": "https://practice.geeksforgeeks.org/problems/shortest-source-to-destination-path3544/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 557
+  },
+  {
+    "name": "Unit Area of largest region of 1's",
+    "link": "https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 558
+  },
+  {
+    "name": "Negative weight cycle",
+    "link": "https://practice.geeksforgeeks.org/problems/negative-weight-cycle3504/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 559
+  },
+  {
+    "name": "Circle of strings",
+    "link": "https://practice.geeksforgeeks.org/problems/circle-of-strings4530/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 560
+  },
+  {
+    "name": "Number of Provinces",
+    "link": "https://practice.geeksforgeeks.org/problems/number-of-provinces/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 561
+  },
+  {
+    "name": "Knight Walk",
+    "link": "https://practice.geeksforgeeks.org/problems/knight-walk4521/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 562
+  },
+  {
+    "name": "Bridge edge in a graph",
+    "link": "https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 563
+  },
+  {
+    "name": "Hamiltonian Path",
+    "link": "https://practice.geeksforgeeks.org/problems/hamiltonian-path2522/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 564
+  },
+  {
+    "name": "Replace O's with X's",
+    "link": "https://practice.geeksforgeeks.org/problems/replace-os-with-xs0052/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 565
+  },
+  {
+    "name": "Shortest path in Directed Acyclic Graph",
+    "link": "https://practice.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 566
+  },
+  {
+    "name": "Word Search",
+    "link": "https://practice.geeksforgeeks.org/problems/word-search/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 567
+  },
+  {
+    "name": "Course Schedule",
+    "link": "https://practice.geeksforgeeks.org/problems/course-schedule/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 568
+  },
+  {
+    "name": "Maximum Bipartite Matching",
+    "link": "https://practice.geeksforgeeks.org/problems/9a88fe7ada1c49c2b3da7a67b43875e4a76aface/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 569
+  },
+  {
+    "name": "Number of Ways to Arrive at Destination",
+    "link": "https://practice.geeksforgeeks.org/problems/number-of-ways-to-arrive-at-destination/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 570
+  },
+  {
+    "name": "Water Connection Problem",
+    "link": "https://practice.geeksforgeeks.org/problems/water-connection-problem5822/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 571
+  },
+  {
+    "name": "Covid Spread",
+    "link": "https://practice.geeksforgeeks.org/problems/269f61832b146dd5e6d89b4ca18cbd2a2654ebbe/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 572
+  },
+  {
+    "name": "Euler Circuit in an Undirected Graph",
+    "link": "https://practice.geeksforgeeks.org/problems/euler-circuit-in-a-directed-graph/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 573
+  },
+  {
+    "name": "Maximum Bipartite Matching",
+    "link": "https://practice.geeksforgeeks.org/problems/maximum-bipartite-matching/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 574
+  },
+  {
+    "name": "Water Flow",
+    "link": "https://www.interviewbit.com/problems/water-flow/",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 575
+  },
+  {
+    "name": "Possible paths between 2 vertices",
+    "link": "https://practice.geeksforgeeks.org/problems/possible-paths-between-2-vertices-1587115620/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 576
+  },
+  {
+    "name": "X Total Shapes",
+    "link": "https://practice.geeksforgeeks.org/problems/x-total-shapes3617/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 577
+  },
+  {
+    "name": "Prerequisite Tasks",
+    "link": "https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 578
+  },
+  {
+    "name": "Find whether path exist",
+    "link": "https://practice.geeksforgeeks.org/problems/find-whether-path-exist5238/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "order": 579
+  },
+  {
+    "name": "Strongly connected component (Tarjans's Algo)",
+    "link": "https://practice.geeksforgeeks.org/problems/strongly-connected-component-tarjanss-algo-1587115621/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Hard",
+    "order": 580
+  },
+  {
+    "name": "Alien Dictionary",
+    "link": "https://practice.geeksforgeeks.org/problems/alien-dictionary/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Hard",
+    "order": 581
+  },
+  {
+    "name": "Minimum Cost Path",
+    "link": "https://practice.geeksforgeeks.org/problems/minimum-cost-path3833/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Hard",
+    "order": 582
+  },
+  {
+    "name": "Articulation Point - I",
+    "link": "https://practice.geeksforgeeks.org/problems/articulation-point-1/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Hard",
+    "order": 583
+  },
+  {
+    "name": "Word Ladder I",
+    "link": "https://www.interviewbit.com/problems/word-ladder-i/",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Hard",
+    "order": 584
+  },
+  {
+    "name": "Largest Sum Cycle",
+    "link": "https://practice.geeksforgeeks.org/problems/51afa710a708c0681748445b509696dd588d5c40/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Hard",
+    "order": 585
+  },
+  {
+    "name": "Shortest Path Using Atmost One Curved Edge",
+    "link": "https://practice.geeksforgeeks.org/problems/e7d81a082cda6bd1e959d943197aa3bc21b88bdb/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Hard",
+    "order": 586
+  },
+  {
+    "name": "Word Ladder II",
+    "link": "https://www.interviewbit.com/problems/word-ladder-ii/",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Hard",
+    "order": 587
+  },
+  {
+    "name": "Assignment Problem",
+    "link": "https://practice.geeksforgeeks.org/problems/assignment-problem3016/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Hard",
+    "order": 588
+  },
+  {
+    "name": "Articulation Point - II",
+    "link": "https://practice.geeksforgeeks.org/problems/articulation-point2616/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Hard",
+    "order": 589
+  },
+  {
+    "name": "Critical Connections",
+    "link": "https://practice.geeksforgeeks.org/problems/critical-connections/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Hard",
+    "order": 590
+  },
+  {
+    "name": "Find number of closed islands",
+    "link": "https://practice.geeksforgeeks.org/problems/find-number-of-closed-islands/1",
+    "tags": [
+      "Graphs"
+    ],
+    "difficulty": "Hard",
+    "order": 591
+  },
+  {
+    "name": "Print first n Fibonacci Numbers",
+    "link": "https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Easy",
+    "order": 593
+  },
+  {
+    "name": "Count numbers containing 4",
+    "link": "https://practice.geeksforgeeks.org/problems/count-numbers-containing-43022/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Easy",
+    "order": 594
+  },
+  {
+    "name": "Nth Fibonacci Number",
+    "link": "https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Easy",
+    "order": 595
+  },
+  {
+    "name": "Stock buy and sell",
+    "link": "https://practice.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Easy",
+    "order": 596
+  },
+  {
+    "name": "Count number of hops",
+    "link": "https://practice.geeksforgeeks.org/problems/count-number-of-hops-1587115620/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Easy",
+    "order": 597
+  },
+  {
+    "name": "Coin ChangeProblem",
+    "link": "https://practice.geeksforgeeks.org/problems/coin-change2448/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 598
+  },
+  {
+    "name": "Number of Coins",
+    "link": "https://practice.geeksforgeeks.org/problems/number-of-coins1824/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 599
+  },
+  {
+    "name": "0-1 Knapsack",
+    "link": "https://www.interviewbit.com/problems/0-1-knapsack/",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 600
+  },
+  {
+    "name": "Tushar's Birthday Party",
+    "link": "https://www.interviewbit.com/problems/tushars-birthday-party/",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 601
+  },
+  {
+    "name": "Matrix Chain Multiplication",
+    "link": "https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 602
+  },
+  {
+    "name": "Program for nth Catalan Number",
+    "link": "https://www.geeksforgeeks.org/program-nth-catalan-number/",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 603
+  },
+  {
+    "name": "Kadane's Algorithm",
+    "link": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 604
+  },
+  {
+    "name": "Longest Common Subsequence",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 605
+  },
+  {
+    "name": "Longest Increasing Subsequence",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 606
+  },
+  {
+    "name": "Longest Common Substring",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 607
+  },
+  {
+    "name": "Longest Repeating Subsequence",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 608
+  },
+  {
+    "name": "Longest Palindromic Subsequence",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 609
+  },
+  {
+    "name": "Longest Arithmetic Progression",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-arithmetic-progression1019/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 610
+  },
+  {
+    "name": "Longest Bitonic subsequence",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 611
+  },
+  {
+    "name": "Longest Common Increasing Subsequence",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-common-increasing-subsequence1437/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 612
+  },
+  {
+    "name": "Subset Sum Problem",
+    "link": "https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 613
+  },
+  {
+    "name": "Count Palindromic Subsequences",
+    "link": "https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 614
+  },
+  {
+    "name": "Longest Palindrome in a String",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 615
+  },
+  {
+    "name": "Egg Dropping Puzzle",
+    "link": "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 616
+  },
+  {
+    "name": "Floyd Warshall",
+    "link": "https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 617
+  },
+  {
+    "name": "Word Break",
+    "link": "https://www.interviewbit.com/problems/word-break/",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 618
+  },
+  {
+    "name": "Palindrome Partitioning II",
+    "link": "https://www.interviewbit.com/problems/palindrome-partitioning-ii/",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 619
+  },
+  {
+    "name": "Shortest Common Supersequence",
+    "link": "https://practice.geeksforgeeks.org/problems/shortest-common-supersequence0322/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 620
+  },
+  {
+    "name": "LCS of three strings",
+    "link": "https://practice.geeksforgeeks.org/problems/lcs-of-three-strings0028/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 621
+  },
+  {
+    "name": "Box Stacking",
+    "link": "https://practice.geeksforgeeks.org/problems/box-stacking/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 622
+  },
+  {
+    "name": "Count of Subarrays",
+    "link": "https://practice.geeksforgeeks.org/problems/count-of-subarrays5922/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 623
+  },
+  {
+    "name": "Longest alternating subsequence",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-alternating-subsequence5951/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 624
+  },
+  {
+    "name": "Count Cyclic Paths",
+    "link": "https://practice.geeksforgeeks.org/problems/aa0000a5f710ce8d41366b714341eef644ec7b82/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 625
+  },
+  {
+    "name": "Ways to sum to N",
+    "link": "https://practice.geeksforgeeks.org/problems/ways-to-sum-to-n5759/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 626
+  },
+  {
+    "name": "Maximum Sum Subsequence of length k",
+    "link": "https://practice.geeksforgeeks.org/problems/maximum-sum-subsequence-of-length-k3053/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 627
+  },
+  {
+    "name": "Find length of longest subsequence",
+    "link": "https://practice.geeksforgeeks.org/problems/find-length-of-longest-subsequence4905/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 628
+  },
+  {
+    "name": "Number of palindromic strings",
+    "link": "https://practice.geeksforgeeks.org/problems/number-of-palindromic-strings2706/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 629
+  },
+  {
+    "name": "Palindromic Strings",
+    "link": "https://practice.geeksforgeeks.org/problems/palindromic-strings2555/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 630
+  },
+  {
+    "name": "Trapping Rain Water",
+    "link": "https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 631
+  },
+  {
+    "name": "Maximum Product Subarray",
+    "link": "https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 632
+  },
+  {
+    "name": "nCr",
+    "link": "https://practice.geeksforgeeks.org/problems/ncr1019/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 633
+  },
+  {
+    "name": "Maximize The Cut Segments",
+    "link": "https://practice.geeksforgeeks.org/problems/cutted-segments1642/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 634
+  },
+  {
+    "name": "Edit Distance",
+    "link": "https://practice.geeksforgeeks.org/problems/edit-distance3702/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 635
+  },
+  {
+    "name": "Partition Equal Subset Sum",
+    "link": "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 636
+  },
+  {
+    "name": "Count ways to reach the n'th stair",
+    "link": "https://practice.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 637
+  },
+  {
+    "name": "Stickler Thief",
+    "link": "https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 638
+  },
+  {
+    "name": "Job Sequencing Problem",
+    "link": "https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 639
+  },
+  {
+    "name": "Perfect Sum Problem",
+    "link": "https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 640
+  },
+  {
+    "name": "Maximum sum increasing subsequence",
+    "link": "https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 641
+  },
+  {
+    "name": "Max length chain",
+    "link": "https://practice.geeksforgeeks.org/problems/max-length-chain/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 642
+  },
+  {
+    "name": "Maximum path sum in matrix",
+    "link": "https://practice.geeksforgeeks.org/problems/path-in-matrix3805/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 643
+  },
+  {
+    "name": "Regular Expression Match",
+    "link": "https://www.interviewbit.com/problems/regular-expression-match/",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 644
+  },
+  {
+    "name": "Smallest sequence with given Primes",
+    "link": "https://www.interviewbit.com/problems/smallest-sequence-with-given-primes/",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 645
+  },
+  {
+    "name": "Wildcard Pattern Matching",
+    "link": "https://practice.geeksforgeeks.org/problems/wildcard-pattern-matching/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 646
+  },
+  {
+    "name": "Tiling With Dominoes",
+    "link": "https://www.interviewbit.com/problems/tiling-with-dominoes/",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 647
+  },
+  {
+    "name": "Paint House!",
+    "link": "https://www.interviewbit.com/problems/paint-house/",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 648
+  },
+  {
+    "name": "Intersecting Chords in a Circle",
+    "link": "https://www.interviewbit.com/problems/intersecting-chords-in-a-circle/",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 649
+  },
+  {
+    "name": "N digit numbers with digit sum S",
+    "link": "https://www.interviewbit.com/problems/n-digit-numbers-with-digit-sum-s-/",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 650
+  },
+  {
+    "name": "Kth Manhattan Distance Neighbourhood",
+    "link": "https://www.interviewbit.com/problems/kth-manhattan-distance-neighbourhood/",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 651
+  },
+  {
+    "name": "Best Time to Buy and Sell Stock atmost B times",
+    "link": "https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stock-atmost-b-times/",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 652
+  },
+  {
+    "name": "Best Time to Buy and Sell Stocks III",
+    "link": "https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-iii/",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 653
+  },
+  {
+    "name": "Longest valid Parentheses",
+    "link": "https://www.interviewbit.com/problems/longest-valid-parentheses/",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 654
+  },
+  {
+    "name": "Rod Cutting",
+    "link": "https://www.interviewbit.com/problems/rod-cutting/",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 655
+  },
+  {
+    "name": "Max Rectangle in Binary Matrix",
+    "link": "https://www.interviewbit.com/problems/max-rectangle-in-binary-matrix/",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 656
+  },
+  {
+    "name": "Maximum Size Square Sub-matrix",
+    "link": "https://www.interviewbit.com/problems/maximum-size-square-sub-matrix/",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 657
+  },
+  {
+    "name": "Maximum Path in Triangle",
+    "link": "https://www.interviewbit.com/problems/maximum-path-in-triangle/",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 658
+  },
+  {
+    "name": "Min Sum Path in Matrix",
+    "link": "https://www.interviewbit.com/problems/min-sum-path-in-matrix/",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 659
+  },
+  {
+    "name": "Coin Sum Infinite",
+    "link": "https://www.interviewbit.com/problems/coin-sum-infinite/",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 660
+  },
+  {
+    "name": "Arrange II",
+    "link": "https://www.interviewbit.com/problems/arrange-ii/",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 661
+  },
+  {
+    "name": "Interleaved Strings",
+    "link": "https://practice.geeksforgeeks.org/problems/interleaved-strings/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 662
+  },
+  {
+    "name": "Consecutive 1's not allowed",
+    "link": "https://practice.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 663
+  },
+  {
+    "name": "Unique BST's",
+    "link": "https://practice.geeksforgeeks.org/problems/unique-bsts-1587115621/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 664
+  },
+  {
+    "name": "Minimum number of Coins",
+    "link": "https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins4426/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 665
+  },
+  {
+    "name": "Maximum Tip Calculator",
+    "link": "https://practice.geeksforgeeks.org/problems/maximum-tip-calculator2631/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 666
+  },
+  {
+    "name": "Snake and Ladder Problem",
+    "link": "https://practice.geeksforgeeks.org/problems/snake-and-ladder-problem4816/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 667
+  },
+  {
+    "name": "Special Keyboard",
+    "link": "https://practice.geeksforgeeks.org/problems/special-keyboard3018/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 668
+  },
+  {
+    "name": "Minimum cost to fill given weight in a bag",
+    "link": "https://practice.geeksforgeeks.org/problems/minimum-cost-to-fill-given-weight-in-a-bag1956/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 669
+  },
+  {
+    "name": "Count ways to N'th Stair(Order does not matter)",
+    "link": "https://practice.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter5639/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 670
+  },
+  {
+    "name": "Distinct occurrences",
+    "link": "https://practice.geeksforgeeks.org/problems/distinct-occurrences/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 671
+  },
+  {
+    "name": "Count subsequences of type a^i, b^j, c^k",
+    "link": "https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck4425/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 672
+  },
+  {
+    "name": "Special Matrix",
+    "link": "https://practice.geeksforgeeks.org/problems/special-matrix4201/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 673
+  },
+  {
+    "name": "Number of ways",
+    "link": "https://practice.geeksforgeeks.org/problems/number-of-ways2552/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 674
+  },
+  {
+    "name": "Distinct Coloring",
+    "link": "https://practice.geeksforgeeks.org/problems/844b4fdcd988ac5461324d62d43f7892749a113c/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 675
+  },
+  {
+    "name": "Shortest XY distance in Grid",
+    "link": "https://practice.geeksforgeeks.org/problems/7366ce450d84b55391fc787a681c4d60de359e72/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 676
+  },
+  {
+    "name": "Water Overflow",
+    "link": "https://practice.geeksforgeeks.org/problems/champagne-overflow2636/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 677
+  },
+  {
+    "name": "Count possible ways to construct buildings",
+    "link": "https://practice.geeksforgeeks.org/problems/count-possible-ways-to-construct-buildings5007/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 678
+  },
+  {
+    "name": "Number of paths in a matrix with k coins",
+    "link": "https://practice.geeksforgeeks.org/problems/number-of-paths-in-a-matrix-with-k-coins2728/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 679
+  },
+  {
+    "name": "Buy and Sell a Share at most twice",
+    "link": "https://practice.geeksforgeeks.org/problems/buy-and-sell-a-share-at-most-twice/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 680
+  },
+  {
+    "name": "Minimum steps to destination",
+    "link": "https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 681
+  },
+  {
+    "name": "Player with max score",
+    "link": "https://practice.geeksforgeeks.org/problems/player-with-max-score/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 682
+  },
+  {
+    "name": "Cutting Binary String",
+    "link": "https://practice.geeksforgeeks.org/problems/cutting-binary-string1342/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 683
+  },
+  {
+    "name": "Two water Jug problem",
+    "link": "https://practice.geeksforgeeks.org/problems/two-water-jug-problem3402/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 684
+  },
+  {
+    "name": "Min cut Square",
+    "link": "https://practice.geeksforgeeks.org/problems/min-cut-square3303/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 685
+  },
+  {
+    "name": "Maximum sum of elements not part of LIS",
+    "link": "https://practice.geeksforgeeks.org/problems/maximum-sum-of-elements-not-part-of-lis/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 686
+  },
+  {
+    "name": "Count of AP Subsequences",
+    "link": "https://practice.geeksforgeeks.org/problems/count-of-ap-subsequences0016/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 687
+  },
+  {
+    "name": "Pascal's Triangle",
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 688
+  },
+  {
+    "name": "Pascal's Triangle II",
+    "link": "https://leetcode.com/problems/pascals-triangle-ii",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 689
+  },
+  {
+    "name": "Best Time to Buy and Sell Stock IV",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 690
+  },
+  {
+    "name": "House Robber",
+    "link": "https://leetcode.com/problems/house-robber",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 691
+  },
+  {
+    "name": "House Robber II",
+    "link": "https://leetcode.com/problems/house-robber-ii",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 692
+  },
+  {
+    "name": "Last Stone Weight II",
+    "link": "https://leetcode.com/problems/last-stone-weight-ii",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 693
+  },
+  {
+    "name": "Predict the Winner",
+    "link": "https://leetcode.com/problems/predict-the-winner",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "order": 694
+  },
+  {
+    "name": "Palindromic Partitioning",
+    "link": "https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Hard",
+    "order": 695
+  },
+  {
+    "name": "Minimum sum partition",
+    "link": "https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Hard",
+    "order": 696
+  },
+  {
+    "name": "Smallest window in a string containing all the characters of another string",
+    "link": "https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Hard",
+    "order": 697
+  },
+  {
+    "name": "The Painter's Partition Problem-II",
+    "link": "https://practice.geeksforgeeks.org/problems/the-painters-partition-problem1535/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Hard",
+    "order": 698
+  },
+  {
+    "name": "Word Wrap",
+    "link": "https://practice.geeksforgeeks.org/problems/word-wrap1646/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Hard",
+    "order": 699
+  },
+  {
+    "name": "Partition array to K subsets",
+    "link": "https://practice.geeksforgeeks.org/problems/partition-array-to-k-subsets/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Hard",
+    "order": 700
+  },
+  {
+    "name": "Word Break - Part 2",
+    "link": "https://practice.geeksforgeeks.org/problems/word-break-part-23249/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Hard",
+    "order": 701
+  },
+  {
+    "name": "Maximum Profit",
+    "link": "https://practice.geeksforgeeks.org/problems/maximum-profit4657/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Hard",
+    "order": 702
+  },
+  {
+    "name": "Maximum Number of coins",
+    "link": "https://practice.geeksforgeeks.org/problems/7ae455e552dc4e07f76bbe2adc4d4207ce1ff16e/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Hard",
+    "order": 703
+  },
+  {
+    "name": "Minimum Points To Reach Destination",
+    "link": "https://practice.geeksforgeeks.org/problems/minimum-points-to-reach-destination0540/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Hard",
+    "order": 704
+  },
+  {
+    "name": "Count occurrences of a given word in a 2-d array",
+    "link": "https://practice.geeksforgeeks.org/problems/count-occurences-of-a-given-word-in-a-2-d-array/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Hard",
+    "order": 705
+  },
+  {
+    "name": "Print all LCS sequences",
+    "link": "https://practice.geeksforgeeks.org/problems/print-all-lcs-sequences3413/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Hard",
+    "order": 706
+  },
+  {
+    "name": "Find all possible palindromic partitions of a String",
+    "link": "https://practice.geeksforgeeks.org/problems/find-all-possible-palindromic-partitions-of-a-string/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Hard",
+    "order": 707
+  },
+  {
+    "name": "Strictly Increasing Array",
+    "link": "https://practice.geeksforgeeks.org/problems/convert-to-strictly-increasing-array3351/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Hard",
+    "order": 708
+  },
+  {
+    "name": "Brackets in Matrix Chain Multiplication",
+    "link": "https://practice.geeksforgeeks.org/problems/brackets-in-matrix-chain-multiplication1024/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Hard",
+    "order": 709
+  },
+  {
+    "name": "Longest Zig-Zag Sub Sequence",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-zig-zag-sub-sequence2656/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Hard",
+    "order": 710
+  },
+  {
+    "name": "Longest Increasing Path in a Matrix",
+    "link": "https://practice.geeksforgeeks.org/problems/longest-increasing-path-in-a-matrix/1",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Hard",
+    "order": 711
+  },
+  {
+    "name": "Burst Balloons",
+    "link": "https://leetcode.com/problems/burst-balloons",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Hard",
+    "order": 712
+  },
+  {
+    "name": "Russian Doll Envelopes",
+    "link": "https://leetcode.com/problems/russian-doll-envelopes",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Hard",
+    "order": 713
+  },
+  {
+    "name": "Number of Ways to Stay in the",
+    "link": "https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Hard",
+    "order": 714
+  },
+  {
+    "name": "Maximum Sum BST in Binary",
+    "link": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree",
+    "tags": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Hard",
+    "order": 715
+  },
+  {
+    "name": "XOR of a given range",
+    "link": "https://practice.geeksforgeeks.org/problems/xor-of-a-given-range/1",
+    "tags": [
+      "Segment Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 717
+  },
+  {
+    "name": "Maximum prefix sum for a given range",
+    "link": "https://practice.geeksforgeeks.org/problems/maximum-prefix-sum-for-a-given-range0227/1",
+    "tags": [
+      "Segment Tree"
+    ],
+    "difficulty": "Easy",
+    "order": 718
+  },
+  {
+    "name": "Range Minimum Query",
+    "link": "https://practice.geeksforgeeks.org/problems/range-minimum-query/1",
+    "tags": [
+      "Segment Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 719
+  },
+  {
+    "name": "Nitika and her queries",
+    "link": "https://practice.geeksforgeeks.org/problems/nitika-and-her-queries4804/1",
+    "tags": [
+      "Segment Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 720
+  },
+  {
+    "name": "Smallest Subarray GCD",
+    "link": "https://practice.geeksforgeeks.org/problems/smallest-sub-array4107/1",
+    "tags": [
+      "Segment Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 721
+  },
+  {
+    "name": "Element left after performing alternate OR & XOR operation",
+    "link": "https://practice.geeksforgeeks.org/problems/element-left-after-performing-alternate-or-xor-operation5106/1",
+    "tags": [
+      "Segment Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 722
+  },
+  {
+    "name": "Array Partition",
+    "link": "https://practice.geeksforgeeks.org/problems/array-partition/1",
+    "tags": [
+      "Segment Tree"
+    ],
+    "difficulty": "Hard",
+    "order": 723
+  },
+  {
+    "name": "Akku and Arrays",
+    "link": "https://practice.geeksforgeeks.org/problems/akku-and-arrays4452/1",
+    "tags": [
+      "Segment Tree"
+    ],
+    "difficulty": "Hard",
+    "order": 724
+  },
+  {
+    "name": "Greater or Less",
+    "link": "https://practice.geeksforgeeks.org/problems/6d3e72175b15d41f0842b1969300d7f969132efc/1",
+    "tags": [
+      "Segment Tree"
+    ],
+    "difficulty": "Hard",
+    "order": 725
+  },
+  {
+    "name": "Unique rows in boolean matrix",
+    "link": "https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1",
+    "tags": [
+      "Trie"
+    ],
+    "difficulty": "Easy",
+    "order": 727
+  },
+  {
+    "name": "Trie | (Insert and Search)",
+    "link": "https://practice.geeksforgeeks.org/problems/trie-insert-and-search0651/1",
+    "tags": [
+      "Trie"
+    ],
+    "difficulty": "Medium",
+    "order": 728
+  },
+  {
+    "name": "Word Boggle",
+    "link": "https://practice.geeksforgeeks.org/problems/word-boggle4143/1",
+    "tags": [
+      "Trie"
+    ],
+    "difficulty": "Medium",
+    "order": 729
+  },
+  {
+    "name": "Most frequent word in an array of strings",
+    "link": "https://practice.geeksforgeeks.org/problems/most-frequent-word-in-an-array-of-strings3528/1",
+    "tags": [
+      "Trie"
+    ],
+    "difficulty": "Medium",
+    "order": 730
+  },
+  {
+    "name": "Maximum XOR subarray",
+    "link": "https://practice.geeksforgeeks.org/problems/a512e4b2e812b6df2159b19cc7090ffc1ab056dd/1",
+    "tags": [
+      "Trie"
+    ],
+    "difficulty": "Medium",
+    "order": 731
+  },
+  {
+    "name": "CamelCase Pattern Matching",
+    "link": "https://practice.geeksforgeeks.org/problems/camelcase-pattern-matching2259/1",
+    "tags": [
+      "Trie"
+    ],
+    "difficulty": "Medium",
+    "order": 732
+  },
+  {
+    "name": "Trie | (Delete)",
+    "link": "https://practice.geeksforgeeks.org/problems/trie-delete/1",
+    "tags": [
+      "Trie"
+    ],
+    "difficulty": "Medium",
+    "order": 733
+  },
+  {
+    "name": "Word Boggle - II",
+    "link": "https://practice.geeksforgeeks.org/problems/72cf44eabd18006810efad06fbb623a0682acee2/1",
+    "tags": [
+      "Trie"
+    ],
+    "difficulty": "Medium",
+    "order": 734
+  },
+  {
+    "name": "Prefix match with other strings",
+    "link": "https://practice.geeksforgeeks.org/problems/prefix-match-with-other-strings/1",
+    "tags": [
+      "Trie"
+    ],
+    "difficulty": "Medium",
+    "order": 735
+  },
+  {
+    "name": "Phone directory",
+    "link": "https://practice.geeksforgeeks.org/problems/phone-directory4628/1",
+    "tags": [
+      "Trie"
+    ],
+    "difficulty": "Hard",
+    "order": 736
+  },
+  {
+    "name": "Palindrome Pairs",
+    "link": "https://practice.geeksforgeeks.org/problems/palindrome-pairs/1",
+    "tags": [
+      "Trie"
+    ],
+    "difficulty": "Hard",
+    "order": 737
+  },
+  {
+    "name": "Shortest Unique prefix for every word",
+    "link": "https://practice.geeksforgeeks.org/problems/shortest-unique-prefix-for-every-word/1",
+    "tags": [
+      "Trie"
+    ],
+    "difficulty": "Hard",
+    "order": 738
+  },
+  {
+    "name": "Word Break (Trie)",
+    "link": "https://practice.geeksforgeeks.org/problems/d857113143f69fab217cf5dab978535542f3cbb1/1",
+    "tags": [
+      "Trie"
+    ],
+    "difficulty": "Hard",
+    "order": 739
+  },
+  {
+    "name": "Find duplicate rows in a binary matrix",
+    "link": "https://practice.geeksforgeeks.org/problems/find-duplicate-rows-in-a-binary-matrix/1",
+    "tags": [
+      "Trie"
+    ],
+    "difficulty": "Hard",
+    "order": 740
+  },
+  {
+    "name": "Range Sum Query - Mutable",
+    "link": "https://leetcode.com/problems/range-sum-query-mutable",
+    "tags": [
+      "Fenwick Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 742
+  },
+  {
+    "name": "Count Number of Teams",
+    "link": "https://leetcode.com/problems/count-number-of-teams",
+    "tags": [
+      "Fenwick Tree"
+    ],
+    "difficulty": "Medium",
+    "order": 743
+  },
+  {
+    "name": "Minimum Possible Integer After at Most K Adjacent Swaps On Digits",
+    "link": "https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits",
+    "tags": [
+      "Fenwick Tree"
+    ],
+    "difficulty": "Hard",
+    "order": 744
+  },
+  {
+    "name": "Count Increasing Quadruplets",
+    "link": "https://leetcode.com/problems/count-increasing-quadruplets",
+    "tags": [
+      "Fenwick Tree"
+    ],
+    "difficulty": "Hard",
+    "order": 745
+  }
+]

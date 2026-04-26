@@ -1,0 +1,8 @@
+{
+  "name": "dsa-stack-backend",
+  "description": "DSA Stack Backend - Problem tracking platform",
+  "engines": {
+    "node": "18"
+  },
+  "repository": "https://github.com/yourusername/DsaStack"
+}
