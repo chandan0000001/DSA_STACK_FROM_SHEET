@@ -1,8 +1,12 @@
 import axios from 'axios'
 
+const baseURL = (
+    import.meta.env.VITE_API_URL || 'https://dsa-stack-from-sheet-1.onrender.com'
+).replace(/\/+$/, '')
+
 const axiosInstance = axios.create({
-    baseURL: import.meta.env.VITE_API_URL,
-    withCredentials: true
+        baseURL,
+        withCredentials: true
 })
 
 let refreshPromise = null
@@ -23,7 +27,7 @@ axiosInstance.interceptors.response.use(
         try {
             if (!refreshPromise) {
                 refreshPromise = axios.post(
-                    `${import.meta.env.VITE_API_URL}/user/refresh-token`,
+                    `${baseURL}/user/refresh-token`,
                     {},
                     { withCredentials: true }
                 ).finally(() => {

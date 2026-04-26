@@ -61,8 +61,19 @@ async function issueAuthSession(user, res) {
   user.refreshToken = await bcrypt.hash(refreshToken, 10);
   await user.save();
 
-  res.cookie("token", accessToken, getCookieOptions(ACCESS_TOKEN_MAX_AGE));
-  res.cookie("refreshToken", refreshToken, getCookieOptions(REFRESH_TOKEN_MAX_AGE));
+  const baseCookieOptions = {
+    httpOnly: true,
+    secure: true,
+    sameSite: "none",
+    path: "/",
+  };
+
+  res.cookie("token", accessToken, baseCookieOptions);
+  res.cookie("refreshToken", refreshToken, {
+    ...baseCookieOptions,
+    maxAge: REFRESH_TOKEN_MAX_AGE,
+    expires: new Date(Date.now() + REFRESH_TOKEN_MAX_AGE),
+  });
 }
 
 // ─── REGISTER ─────────────────────────────────────────────────────────────────
