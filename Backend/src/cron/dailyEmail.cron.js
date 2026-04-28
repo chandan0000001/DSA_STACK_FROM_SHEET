@@ -28,7 +28,10 @@ function getKolkataHour(date = new Date()) {
 }
 
 async function sendDailyEmailsForToday() {
-  const clientUrl = process.env.CLIENT_URL
+  // Use FRONTEND_URL for email links, fallback to localhost for development
+  const frontendUrl = process.env.FRONTEND_URL
+    ? process.env.FRONTEND_URL.replace(/\/+$/, "")
+    : process.env.CLIENT_URL
     ? process.env.CLIENT_URL.replace(/\/+$/, "")
     : "http://localhost:5173";
   const todayKey = getKolkataDateKey();
@@ -53,7 +56,7 @@ async function sendDailyEmailsForToday() {
             <h2>Hey ${user.name || "Coder"} 👋</h2>
             <p>Your daily problems are ready 🔥</p>
 
-            <a href="${clientUrl}/daily-problem"
+            <a href="${frontendUrl}/daily-problem"
                style="display:inline-block;padding:10px 15px;background:black;color:white;text-decoration:none;border-radius:6px;">
                Solve Now 🚀
             </a>

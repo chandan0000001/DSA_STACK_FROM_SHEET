@@ -49,9 +49,9 @@ function isValidEmail(email) {
 }
 
 function getClientUrl() {
-  return process.env.CLIENT_URL
-    ? process.env.CLIENT_URL.replace(/\/+$/, "")
-    : "http://localhost:5173";
+  // Use FRONTEND_URL if available, otherwise fall back to CLIENT_URL
+  const url = process.env.FRONTEND_URL || process.env.CLIENT_URL || "http://localhost:5173";
+  return url.replace(/\/+$/, "");
 }
 
 async function issueAuthSession(user, res) {
